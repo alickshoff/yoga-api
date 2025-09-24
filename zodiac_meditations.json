@@ -1,98 +1,20 @@
 [
   {
-    "sign": "Овен",
-    "element": "Огонь",
-    "description": "Энергичный и смелый. Медитация направлена на успокоение ума.",
-    "audioUrl": "https://alickshoff.github.io/yoga-api/aries_meditation.mp3",
-    "duration": "10 мин",
-    "iconUrl": "https://alickshoff.github.io/yoga-api/icons/aries.png"
-  },
-  {
-    "sign": "Телец",
-    "element": "Земля",
-    "description": "Спокойный и стабильный. Медитация укрепляет внутреннюю силу.",
-    "audioUrl": "https://alickshoff.github.io/yoga-api/taurus_meditation.mp3",
-    "duration": "12 мин",
-    "iconUrl": "https://alickshoff.github.io/yoga-api/icons/taurus.png"
-  },
-  {
-    "sign": "Близнецы",
-    "element": "Воздух",
-    "description": "Любознательный и общительный. Медитация помогает сосредоточиться и замедлиться.",
-    "audioUrl": "https://alickshoff.github.io/yoga-api/gemini_meditation.mp3",
-    "duration": "11 мин",
-    "iconUrl": "https://alickshoff.github.io/yoga-api/icons/gemini.png"
-  },
-  {
-    "sign": "Рак",
-    "element": "Вода",
-    "description": "Чувствительный и заботливый. Медитация раскрывает сердце и гармонию.",
-    "audioUrl": "https://alickshoff.github.io/yoga-api/cancer_meditation.mp3",
-    "duration": "13 мин",
-    "iconUrl": "https://alickshoff.github.io/yoga-api/icons/cancer.png"
-  },
-  {
-    "sign": "Лев",
-    "element": "Огонь",
-    "description": "Творческий и уверенный. Медитация помогает найти баланс и скромность.",
-    "audioUrl": "https://alickshoff.github.io/yoga-api/leo_meditation.mp3",
-    "duration": "10 мин",
-    "iconUrl": "https://alickshoff.github.io/yoga-api/icons/leo.png"
-  },
-  {
-    "sign": "Дева",
-    "element": "Земля",
-    "description": "Практичный и внимательный к деталям. Медитация успокаивает внутренний критицизм.",
-    "audioUrl": "https://alickshoff.github.io/yoga-api/virgo_meditation.mp3",
-    "duration": "12 мин",
-    "iconUrl": "https://alickshoff.github.io/yoga-api/icons/virgo.png"
-  },
-  {
-    "sign": "Весы",
-    "element": "Воздух",
-    "description": "Гармоничный и дипломатичный. Медитация восстанавливает внутренний баланс.",
-    "audioUrl": "https://alickshoff.github.io/yoga-api/libra_meditation.mp3",
-    "duration": "11 мин",
-    "iconUrl": "https://alickshoff.github.io/yoga-api/icons/libra.png"
-  },
-  {
-    "sign": "Скорпион",
-    "element": "Вода",
-    "description": "Глубокий и страстный. Медитация направлена на трансформацию эмоций.",
-    "audioUrl": "https://alickshoff.github.io/yoga-api/scorpio_meditation.mp3",
-    "duration": "14 мин",
-    "iconUrl": "https://alickshoff.github.io/yoga-api/icons/scorpio.png"
-  },
-  {
-    "sign": "Стрелец",
-    "element": "Огонь",
-    "description": "Оптимистичный и свободолюбивый. Медитация помогает обрести внутренний покой.",
-    "audioUrl": "https://alickshoff.github.io/yoga-api/sagittarius_meditation.mp3",
-    "duration": "10 мин",
-    "iconUrl": "https://alickshoff.github.io/yoga-api/icons/sagittarius.png"
-  },
-  {
     "sign": "Козерог",
     "element": "Земля",
-    "description": "Амбициозный и дисциплинированный. Медитация помогает отпустить напряжение.",
+    "description": "Медитация для устойчивости и внутренней силы.",
     "audioUrl": "https://alickshoff.github.io/yoga-api/capricorn_meditation.mp3",
     "duration": "12 мин",
-    "iconUrl": "https://alickshoff.github.io/yoga-api/icons/capricorn.png"
+    "iconUrl": "https://alickshoff.github.io/yoga-api/icons/capricorn.png",
+    "scriptFile": "capricorn_script.txt"
   },
   {
-    "sign": "Водолей",
-    "element": "Воздух",
-    "description": "Новаторский и независимый. Медитация способствует раскрытию интуиции.",
-    "audioUrl": "https://alickshoff.github.io/yoga-api/aquarius_meditation.mp3",
-    "duration": "11 мин",
-    "iconUrl": "https://alickshoff.github.io/yoga-api/icons/aquarius.png"
-  },
-  {
-    "sign": "Рыбы",
-    "element": "Вода",
-    "description": "Мечтательный и эмпатичный. Медитация соединяет с внутренним миром и вдохновением.",
-    "audioUrl": "https://alickshoff.github.io/yoga-api/pisces_meditation.mp3",
-    "duration": "13 мин",
-    "iconUrl": "https://alickshoff.github.io/yoga-api/icons/pisces.png"
+    "sign": "Овен",
+    "element": "Огонь",
+    "description": "Медитация для успокоения ума и направления энергии.",
+    "audioUrl": "https://alickshoff.github.io/yoga-api/aries_meditation.mp3",
+    "duration": "10 мин",
+    "iconUrl": "https://alickshoff.github.io/yoga-api/icons/aries.png",
+    "scriptFile": "aries_script.txt"
   }
 ]
