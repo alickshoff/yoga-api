@@ -2,21 +2,21 @@
   {
     "sign": "Овен",
     "element": "Огонь",
-    "iconUrl": "https://alickshoff.github.io/yoga-api/icons/aries.png",
+    "iconUrl": "https://alickshoff.github.io/yoga-api/aries.jpg",
     "audioUrl": "https://alickshoff.github.io/yoga-api/aries_female.mp3",
     "duration": "10 мин",
     "meditationText": "Ты — Овен, знак силы, смелости и внутреннего огня. Найди удобное положение сидя, закрой глаза. Сделай глубокий вдох и долгий медленный выдох. Почувствуй, как дыхание становится ровнее, тело расслабляется. Представь, что в груди разгорается мягкое пламя — оно не обжигает, а согревает, даря уверенность и спокойствие.
 
-С каждым вдохом пламя становится ярче, наполняя тебя энергией и силой. На каждом выдохе оно растворяет усталость, тревогу и спешку. Это внутренний огонь — твой источник решимости и движения вперёд. (пауза 10 секунд) Позволь ему мягко распространяться по всему телу: к плечам, рукам, животу и ногам.
+        С каждым вдохом пламя становится ярче, наполняя тебя энергией и силой. На каждом выдохе оно растворяет усталость, тревогу и спешку. Это внутренний огонь — твой источник решимости и движения вперёд. (пауза 10 секунд) Позволь ему мягко распространяться по всему телу: к плечам, рукам, животу и ногам.
 
-Повторяй в уме: «Я смел. Я силён. Я в гармонии с собой и миром». Заметь, как каждая клетка наполняется теплом и светом, как исчезают сомнения и страхи. Если в мыслях появляется беспокойство, положи его в это пламя и наблюдай, как оно исчезает.
+          Повторяй в уме: «Я смел. Я силён. Я в гармонии с собой и миром». Заметь, как каждая клетка наполняется теплом и светом, как исчезают сомнения и страхи. Если в мыслях появляется беспокойство, положи его в это пламя и наблюдай, как оно исчезает.
 
-Сделай три глубоких вдоха и мягко вернись в тело. Почувствуй пальцы рук и ног, слегка пошевели ими. Когда откроешь глаза, сохрани ощущение внутренней силы и уверенности."
+          Сделай три глубоких вдоха и мягко вернись в тело. Почувствуй пальцы рук и ног, слегка пошевели ими. Когда откроешь глаза, сохрани ощущение внутренней силы и уверенности."
   },
   {
     "sign": "Телец",
     "element": "Земля",
-    "iconUrl": "https://alickshoff.github.io/yoga-api/icons/taurus.png",
+    "iconUrl": "https://alickshoff.github.io/yoga-api/taurus.jpg",
     "audioUrl": "https://alickshoff.github.io/yoga-api/taurus_female.mp3",
     "duration": "12 мин",
     "meditationText": "Ты — Овен, знак силы, смелости и внутреннего огня. Найди удобное положение сидя, закрой глаза. Сделай глубокий вдох и долгий медленный выдох. Почувствуй, как дыхание становится ровнее, тело расслабляется. Представь, что в груди разгорается мягкое пламя — оно не обжигает, а согревает, даря уверенность и спокойствие.
@@ -30,7 +30,7 @@
   {
     "sign": "Близнецы",
     "element": "Воздух",
-    "iconUrl": "https://alickshoff.github.io/yoga-api/icons/gemini.png",
+    "iconUrl": "https://alickshoff.github.io/yoga-api/gemini.jpg",
     "audioUrl": "https://alickshoff.github.io/yoga-api/gemini_female.mp3",
     "duration": "11 мин",
     "meditationText": "Ты — Близнецы, знак лёгкости, свободы и движения. Найди удобное положение, закрой глаза и обрати внимание на дыхание. Сделай глубокий вдох, словно вдыхаешь свежий ветер. Долгий выдох — отпуская напряжение и лишние мысли.
@@ -44,7 +44,7 @@
   {
     "sign": "Рак",
     "element": "Вода",
-    "iconUrl": "https://alickshoff.github.io/yoga-api/icons/cancer.png",
+    "iconUrl": "https://alickshoff.github.io/yoga-api/cancer.jpg",
     "audioUrl": "https://alickshoff.github.io/yoga-api/cancer_female.mp3",
     "duration": "12 мин",
     "meditationText": "Ты — Рак, знак глубины, заботы и внутренней мягкости. Найди удобное место, закрой глаза. Сосредоточься на дыхании: глубокий вдох — спокойствие входит в тебя, долгий выдох — уходит усталость.
@@ -58,7 +58,7 @@
   {
     "sign": "Лев",
     "element": "Огонь",
-    "iconUrl": "https://alickshoff.github.io/yoga-api/icons/leo.png",
+    "iconUrl": "https://alickshoff.github.io/yoga-api/leo.jpg",
     "audioUrl": "https://alickshoff.github.io/yoga-api/leo_female.mp3",
     "duration": "13 мин",
     "meditationText": "Ты — Лев, символ сияния, уверенности и внутреннего солнца. Сядь прямо, закрой глаза. Сделай глубокий вдох — и почувствуй, как в груди загорается золотое светило.
@@ -72,7 +72,7 @@
   {
     "sign": "Дева",
     "element": "Земля",
-    "iconUrl": "https://alickshoff.github.io/yoga-api/icons/virgo.png",
+    "iconUrl": "https://alickshoff.github.io/yoga-api/virgo.jpg",
     "audioUrl": "https://alickshoff.github.io/yoga-api/virgo_female.mp3",
     "duration": "10 мин",
     "meditationText": "Ты — Дева, знак ясности, чистоты и внутреннего порядка. Сядь удобно, закрой глаза. Сделай глубокий вдох и долгий выдох. Представь, что мягкий зелёный свет окутывает тебя с головы до ног.
@@ -86,7 +86,7 @@
   {
     "sign": "Весы",
     "element": "Воздух",
-    "iconUrl": "https://alickshoff.github.io/yoga-api/icons/libra.png",
+    "iconUrl": "https://alickshoff.github.io/yoga-api/libra.jpg",
     "audioUrl": "https://alickshoff.github.io/yoga-api/libra_female.mp3",
     "duration": "11 мин",
     "meditationText": "Ты — Весы, знак равновесия и гармонии. Сядь удобно, закрой глаза. Сделай глубокий вдох и долгий выдох. Представь весы внутри себя.
@@ -100,7 +100,7 @@
   {
     "sign": "Скорпион",
     "element": "Вода",
-    "iconUrl": "https://alickshoff.github.io/yoga-api/icons/scorpio.png",
+    "iconUrl": "https://alickshoff.github.io/yoga-api/scorpio.jpg",
     "audioUrl": "https://alickshoff.github.io/yoga-api/scorpio_female.mp3",
     "duration": "14 мин",
     "meditationText": "Ты — Скорпион, символ глубины и трансформации. Сядь удобно, закрой глаза. Сделай глубокий вдох, представь озеро с прозрачной водой.
@@ -114,7 +114,7 @@
   {
     "sign": "Стрелец",
     "element": "Огонь",
-    "iconUrl": "https://alickshoff.github.io/yoga-api/icons/sagittarius.png",
+    "iconUrl": "https://alickshoff.github.io/yoga-api/sagittarius.jpg",
     "audioUrl": "https://alickshoff.github.io/yoga-api/sagittarius_female.mp3",
     "duration": "12 мин",
     "meditationText": "Ты — Стрелец, знак свободы и устремлённости. Сядь с прямой спиной, закрой глаза. Сделай вдох и представь яркую звезду вдали.
@@ -128,7 +128,7 @@
   {
     "sign": "Козерог",
     "element": "Земля",
-    "iconUrl": "https://alickshoff.github.io/yoga-api/icons/capricorn.png",
+    "iconUrl": "https://alickshoff.github.io/yoga-api/capricorn.jpg",
     "audioUrl": "https://alickshoff.github.io/yoga-api/capricorn_female.mp3",
     "duration": "13 мин",
     "meditationText": "Ты — Козерог, символ стойкости и выносливости. Сядь прямо, закрой глаза. Сделай вдох и представь высокую гору.
@@ -142,7 +142,7 @@
   {
     "sign": "Водолей",
     "element": "Воздух",
-    "iconUrl": "https://alickshoff.github.io/yoga-api/icons/aquarius.png",
+    "iconUrl": "https://alickshoff.github.io/yoga-api/aquarius.jpg",
     "audioUrl": "https://alickshoff.github.io/yoga-api/aquarius_female.mp3",
     "duration": "12 мин",
     "meditationText": "Ты — Водолей, знак свободы духа и вдохновения. Сядь удобно, закрой глаза. Сделай вдох и представь лёгкий поток воздуха вокруг.
@@ -156,7 +156,7 @@
   {
     "sign": "Рыбы",
     "element": "Вода",
-    "iconUrl": "https://alickshoff.github.io/yoga-api/icons/pisces.png",
+    "iconUrl": "https://alickshoff.github.io/yoga-api/pisces.jpg",
     "audioUrl": "https://alickshoff.github.io/yoga-api/pisces_female.mp3",
     "duration": "14 мин",
     "meditationText": "Ты — Рыбы, символ интуиции и мягкости. Сядь или ляг удобно, закрой глаза. Представь, что находишься в прозрачной воде, где легко дышится.
