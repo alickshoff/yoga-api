@@ -1,18 +1,18 @@
 [
   {
-    "sign": "Козерог",
-    "element": "Земля",
-    "description": "Медитация для устойчивости и внутренней силы.",
-    "audioUrl": "https://alickshoff.github.io/yoga-api/capricorn_meditation.mp3",
-    "duration": "12 мин",
-    "scriptFile": "capricorn_script.txt"
-  },
-  {
     "sign": "Овен",
     "element": "Огонь",
-    "description": "Медитация для успокоения ума и направления энергии.",
-    "audioUrl": "https://alickshoff.github.io/yoga-api/aries_meditation.mp3",
+    "iconUrl": "https://alickshoff.github.io/yoga-api/icons/aries.png",
+    "audioUrl": "https://alickshoff.github.io/yoga-api/aries_female.mp3",
     "duration": "10 мин",
-    "scriptFile": "aries_script.txt"
+    "meditationText": "Ты — Овен, символ силы и смелости. Сейчас ты вдыхаешь спокойствие, выдохом отпускаешь напряжение..."
+  },
+  {
+    "sign": "Телец",
+    "element": "Земля",
+    "iconUrl": "https://alickshoff.github.io/yoga-api/icons/taurus.png",
+    "audioUrl": "https://alickshoff.github.io/yoga-api/taurus_female.mp3",
+    "duration": "12 мин",
+    "meditationText": "Ты — Телец, воплощение стабильности и гармонии. Почувствуй связь с землёй под ногами..."
   }
 ]
