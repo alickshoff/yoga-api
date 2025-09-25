@@ -1,170 +1,134 @@
 [
   {
     "sign": "Овен",
+    "sign_en": "Aries",
     "element": "Огонь",
+    "element_en": "Fire",
     "iconUrl": "https://alickshoff.github.io/yoga-api/aries.jpg",
     "audioUrl": "https://alickshoff.github.io/yoga-api/aries_female.mp3",
     "duration": "10 мин",
-    "meditationText": "Ты — Овен, знак силы, смелости и внутреннего огня. Найди удобное положение сидя, закрой глаза. Сделай глубокий вдох и долгий медленный выдох. Почувствуй, как дыхание становится ровнее, тело расслабляется. Представь, что в груди разгорается мягкое пламя — оно не обжигает, а согревает, даря уверенность и спокойствие.
-
-        С каждым вдохом пламя становится ярче, наполняя тебя энергией и силой. На каждом выдохе оно растворяет усталость, тревогу и спешку. Это внутренний огонь — твой источник решимости и движения вперёд. (пауза 10 секунд) Позволь ему мягко распространяться по всему телу: к плечам, рукам, животу и ногам.
-
-          Повторяй в уме: «Я смел. Я силён. Я в гармонии с собой и миром». Заметь, как каждая клетка наполняется теплом и светом, как исчезают сомнения и страхи. Если в мыслях появляется беспокойство, положи его в это пламя и наблюдай, как оно исчезает.
-
-          Сделай три глубоких вдоха и мягко вернись в тело. Почувствуй пальцы рук и ног, слегка пошевели ими. Когда откроешь глаза, сохрани ощущение внутренней силы и уверенности."
+    "meditationText": "Ты — Овен, знак силы, смелости и внутреннего огня. Найди удобное положение сидя, закрой глаза. Сделай глубокий вдох и долгий медленный выдох. Почувствуй, как дыхание становится ровнее, тело расслабляется. Представь, что в груди разгорается мягкое пламя — оно не обжигает, а согревает, даря уверенность и спокойствие.\n\nС каждым вдохом пламя становится ярче, наполняя тебя энергией и силой. На каждом выдохе оно растворяет усталость, тревогу и спешку. Это внутренний огонь — твой источник решимости и движения вперёд. (пауза 10 секунд) Позволь ему мягко распространяться по всему телу: к плечам, рукам, животу и ногам.\n\nПовторяй в уме: «Я смел. Я силён. Я в гармонии с собой и миром». Заметь, как каждая клетка наполняется теплом и светом, как исчезают сомнения и страхи. Если в мыслях появляется беспокойство, положи его в это пламя и наблюдай, как оно исчезает.\n\nСделай три глубоких вдоха и мягко вернись в тело. Почувствуй пальцы рук и ног, слегка пошевели ими. Когда откроешь глаза, сохрани ощущение внутренней силы и уверенности.",
+    "meditationText_en": "You are Aries, a sign of strength, courage, and inner fire. Find a comfortable seated position, close your eyes. Take a deep breath in and a long, slow exhale. Feel your breath becoming steady, your body relaxing. Imagine a gentle flame igniting in your chest — it doesn’t burn but warms, bringing confidence and calm.\n\nWith each inhale, the flame grows brighter, filling you with energy and strength. With each exhale, it dissolves fatigue, anxiety, and haste. This inner fire is your source of determination and forward movement. (Pause for 10 seconds) Let it gently spread through your body: to your shoulders, arms, abdomen, and legs.\n\nRepeat in your mind: 'I am bold. I am strong. I am in harmony with myself and the world.' Notice how every cell fills with warmth and light, how doubts and fears fade away. If worries arise, place them in the flame and watch them disappear.\n\nTake three deep breaths and gently return to your body. Feel your fingers and toes, wiggle them slightly. When you open your eyes, carry this sense of inner strength and confidence."
   },
   {
     "sign": "Телец",
+    "sign_en": "Taurus",
     "element": "Земля",
+    "element_en": "Earth",
     "iconUrl": "https://alickshoff.github.io/yoga-api/taurus.jpg",
     "audioUrl": "https://alickshoff.github.io/yoga-api/taurus_female.mp3",
     "duration": "12 мин",
-    "meditationText": "Ты — Овен, знак силы, смелости и внутреннего огня. Найди удобное положение сидя, закрой глаза. Сделай глубокий вдох и долгий медленный выдох. Почувствуй, как дыхание становится ровнее, тело расслабляется. Представь, что в груди разгорается мягкое пламя — оно не обжигает, а согревает, даря уверенность и спокойствие.
-
-С каждым вдохом пламя становится ярче, наполняя тебя энергией и силой. На каждом выдохе оно растворяет усталость, тревогу и спешку. Это внутренний огонь — твой источник решимости и движения вперёд. (пауза 10 секунд) Позволь ему мягко распространяться по всему телу: к плечам, рукам, животу и ногам.
-
-Повторяй в уме: «Я смел. Я силён. Я в гармонии с собой и миром». Заметь, как каждая клетка наполняется теплом и светом, как исчезают сомнения и страхи. Если в мыслях появляется беспокойство, положи его в это пламя и наблюдай, как оно исчезает.
-
-Сделай три глубоких вдоха и мягко вернись в тело. Почувствуй пальцы рук и ног, слегка пошевели ими. Когда откроешь глаза, сохрани ощущение внутренней силы и уверенности."
+    "meditationText": "Ты — Телец, знак стабильности, терпения и укоренённости. Найди удобное положение сидя, закрой глаза. Сделай глубокий вдох и долгий медленный выдох. Почувствуй, как дыхание становится ровнее, тело расслабляется. Представь, что ты стоишь на мягкой, плодородной земле — она тёплая, надёжная, поддерживает тебя.\n\nС каждым вдохом ты соединяешься с этой землёй, чувствуя её силу и устойчивость. На каждом выдохе отпускаешь напряжение, сомнения и спешку. (пауза 10 секунд) Позволь этой энергии земли подниматься через твои стопы, наполняя тело спокойствием и уверенностью.\n\nПовторяй в уме: «Я устойчив. Я спокоен. Я в гармонии с собой и миром». Заметь, как каждая клетка наполняется тёплой, заземляющей энергией, как исчезают тревоги. Если в мыслях появляется беспокойство, отдай его земле, чтобы она растворила его.\n\nСделай три глубоких вдоха и мягко вернись в тело. Почувствуй пальцы рук и ног, слегка пошевели ими. Когда откроешь глаза, сохрани ощущение укоренённости и спокойствия.",
+    "meditationText_en": "You are Taurus, a sign of stability, patience, and groundedness. Find a comfortable seated position, close your eyes. Take a deep breath in and a long, slow exhale. Feel your breath becoming steady, your body relaxing. Imagine standing on soft, fertile earth — it’s warm, reliable, and supports you.\n\nWith each inhale, you connect with this earth, feeling its strength and steadiness. With each exhale, release tension, doubts, and haste. (Pause for 10 seconds) Let this earthy energy rise through your feet, filling your body with calm and confidence.\n\nRepeat in your mind: 'I am steady. I am calm. I am in harmony with myself and the world.' Notice how every cell fills with warm, grounding energy, how worries fade away. If concerns arise, give them to the earth to dissolve.\n\nTake three deep breaths and gently return to your body. Feel your fingers and toes, wiggle them slightly. When you open your eyes, carry this sense of rootedness and peace."
   },
   {
     "sign": "Близнецы",
+    "sign_en": "Gemini",
     "element": "Воздух",
+    "element_en": "Air",
     "iconUrl": "https://alickshoff.github.io/yoga-api/gemini.jpg",
     "audioUrl": "https://alickshoff.github.io/yoga-api/gemini_female.mp3",
     "duration": "11 мин",
-    "meditationText": "Ты — Близнецы, знак лёгкости, свободы и движения. Найди удобное положение, закрой глаза и обрати внимание на дыхание. Сделай глубокий вдох, словно вдыхаешь свежий ветер. Долгий выдох — отпуская напряжение и лишние мысли.
-
-Представь прозрачный поток воздуха, что мягко обдувает твоё лицо и плечи. Он уносит всё лишнее — сомнения, тревогу, суету. (пауза 10 секунд) С каждым вдохом чувствуешь свежесть и лёгкость, с каждым выдохом освобождаешь пространство внутри себя.
-
-Повторяй в уме: «Я лёгок. Я свободен. Мои мысли ясны и чисты». Вообрази, как воздушный поток проносится внутри тебя, очищает и освежает. Пусть он раскрывает пространство для новых идей, вдохновения и свободы.
-
-Сделай несколько глубоких вдохов, мягко пошевели пальцами и вернись в настоящий момент. Открой глаза, сохраняя внутри ощущение лёгкости и ясности, словно после утреннего ветра."
+    "meditationText": "Ты — Близнецы, знак лёгкости, свободы и движения. Найди удобное положение, закрой глаза и обрати внимание на дыхание. Сделай глубокий вдох, словно вдыхаешь свежий ветер. Долгий выдох — отпуская напряжение и лишние мысли.\n\nПредставь прозрачный поток воздуха, что мягко обдувает твоё лицо и плечи. Он уносит всё лишнее — сомнения, тревогу, суету. (пауза 10 секунд) С каждым вдохом чувствуешь свежесть и лёгкость, с каждым выдохом освобождаешь пространство внутри себя.\n\nПовторяй в уме: «Я лёгок. Я свободен. Мои мысли ясны и чисты». Вообрази, как воздушный поток проносится внутри тебя, очищает и освежает. Пусть он раскрывает пространство для новых идей, вдохновения и свободы.\n\nСделай несколько глубоких вдохов, мягко пошевели пальцами и вернись в настоящий момент. Открой глаза, сохраняя внутри ощущение лёгкости и ясности, словно после утреннего ветра.",
+    "meditationText_en": "You are Gemini, a sign of lightness, freedom, and movement. Find a comfortable position, close your eyes, and focus on your breath. Take a deep inhale, as if breathing in fresh wind. A long exhale releases tension and excess thoughts.\n\nImagine a clear stream of air gently brushing your face and shoulders, carrying away doubts, anxiety, and clutter. (Pause for 10 seconds) With each inhale, feel freshness and lightness; with each exhale, free up space within yourself.\n\nRepeat in your mind: 'I am light. I am free. My thoughts are clear and pure.' Picture the airflow moving through you, cleansing and refreshing. Let it open space for new ideas, inspiration, and freedom.\n\nTake a few deep breaths, gently wiggle your fingers, and return to the present moment. Open your eyes, carrying a sense of lightness and clarity, like after a morning breeze."
   },
   {
     "sign": "Рак",
+    "sign_en": "Cancer",
     "element": "Вода",
+    "element_en": "Water",
     "iconUrl": "https://alickshoff.github.io/yoga-api/cancer.jpg",
     "audioUrl": "https://alickshoff.github.io/yoga-api/cancer_female.mp3",
     "duration": "12 мин",
-    "meditationText": "Ты — Рак, знак глубины, заботы и внутренней мягкости. Найди удобное место, закрой глаза. Сосредоточься на дыхании: глубокий вдох — спокойствие входит в тебя, долгий выдох — уходит усталость.
-
-Представь, что ты стоишь на берегу моря. Вода омывает ноги, принося прохладу и покой. На вдохе мягкая волна наполняет сердце теплом, на выдохе — уносит тревогу и усталость. (пауза 10 секунд) Почувствуй, как море обнимает тебя, защищает и успокаивает.
-
-Повторяй: «Я в безопасности. Я любим. Я открыт гармонии». Вода мягко движется сквозь тебя, очищая мысли и чувства. Твоя душа становится чистой, как прозрачная гладь озера.
-
-Сделай три глубоких вдоха, пошевели пальцами, вернись в тело. Открой глаза с ощущением внутренней мягкости и любви."
+    "meditationText": "Ты — Рак, знак глубины, заботы и внутренней мягкости. Найди удобное место, закрой глаза. Сосредоточься на дыхании: глубокий вдох — спокойствие входит в тебя, долгий выдох — уходит усталость.\n\nПредставь, что ты стоишь на берегу моря. Вода омывает ноги, принося прохладу и покой. На вдохе мягкая волна наполняет сердце теплом, на выдохе — уносит тревогу и усталость. (пауза 10 секунд) Почувствуй, как море обнимает тебя, защищает и успокаивает.\n\nПовторяй: «Я в безопасности. Я любим. Я открыт гармонии». Вода мягко движется сквозь тебя, очищая мысли и чувства. Твоя душа становится чистой, как прозрачная гладь озера.\n\nСделай три глубоких вдоха, пошевели пальцами, вернись в тело. Открой глаза с ощущением внутренней мягкости и любви.",
+    "meditationText_en": "You are Cancer, a sign of depth, care, and inner softness. Find a comfortable place, close your eyes. Focus on your breath: a deep inhale brings calm, a long exhale releases fatigue.\n\nImagine standing by the sea. The water washes over your feet, bringing coolness and peace. With each inhale, a gentle wave fills your heart with warmth; with each exhale, it carries away anxiety and tiredness. (Pause for 10 seconds) Feel the sea embracing you, protecting and soothing.\n\nRepeat: 'I am safe. I am loved. I am open to harmony.' The water flows gently through you, cleansing thoughts and feelings. Your soul becomes as clear as a still lake.\n\nTake three deep breaths, wiggle your fingers, and return to your body. Open your eyes with a sense of inner softness and love."
   },
   {
     "sign": "Лев",
+    "sign_en": "Leo",
     "element": "Огонь",
+    "element_en": "Fire",
     "iconUrl": "https://alickshoff.github.io/yoga-api/leo.jpg",
     "audioUrl": "https://alickshoff.github.io/yoga-api/leo_female.mp3",
     "duration": "13 мин",
-    "meditationText": "Ты — Лев, символ сияния, уверенности и внутреннего солнца. Сядь прямо, закрой глаза. Сделай глубокий вдох — и почувствуй, как в груди загорается золотое светило.
-
-Представь яркое солнце, которое излучает тепло и свет. На вдохе его лучи наполняют сердце силой, на выдохе — расходятся по всему телу, принося радость и уверенность. (пауза 10 секунд) Твоё внутреннее солнце сияет, согревает и освещает путь.
-
-Повторяй: «Я свет. Я сила. Я сияю». Пусть этот свет распространяется за пределы тела, касаясь пространства вокруг. Заметь, как уверенность и спокойствие становятся твоими естественными спутниками.
-
-Сделай три глубоких вдоха, медленно открой глаза и вернись в мир с сиянием и радостью внутри."
+    "meditationText": "Ты — Лев, символ сияния, уверенности и внутреннего солнца. Сядь прямо, закрой глаза. Сделай глубокий вдох — и почувствуй, как в груди загорается золотое светило.\n\nПредставь яркое солнце, которое излучает тепло и свет. На вдохе его лучи наполняют сердце силой, на выдохе — расходятся по всему телу, принося радость и уверенность. (пауза 10 секунд) Твоё внутреннее солнце сияет, согревает и освещает путь.\n\nПовторяй: «Я свет. Я сила. Я сияю». Пусть этот свет распространяется за пределы тела, касаясь пространства вокруг. Заметь, как уверенность и спокойствие становятся твоими естественными спутниками.\n\nСделай три глубоких вдоха, медленно открой глаза и вернись в мир с сиянием и радостью внутри.",
+    "meditationText_en": "You are Leo, a symbol of radiance, confidence, and inner sun. Sit upright, close your eyes. Take a deep breath and feel a golden sun igniting in your chest.\n\nPicture a bright sun radiating warmth and light. With each inhale, its rays fill your heart with strength; with each exhale, they spread through your body, bringing joy and confidence. (Pause for 10 seconds) Your inner sun shines, warms, and lights your path.\n\nRepeat: 'I am light. I am strength. I shine.' Let this light extend beyond your body, touching the space around you. Notice how confidence and calm become your natural companions.\n\nTake three deep breaths, slowly open your eyes, and return to the world with radiance and joy within."
   },
   {
     "sign": "Дева",
+    "sign_en": "Virgo",
     "element": "Земля",
+    "element_en": "Earth",
     "iconUrl": "https://alickshoff.github.io/yoga-api/virgo.jpg",
     "audioUrl": "https://alickshoff.github.io/yoga-api/virgo_female.mp3",
     "duration": "10 мин",
-    "meditationText": "Ты — Дева, знак ясности, чистоты и внутреннего порядка. Сядь удобно, закрой глаза. Сделай глубокий вдох и долгий выдох. Представь, что мягкий зелёный свет окутывает тебя с головы до ног.
-
-На вдохе этот свет наполняет гармонией, на выдохе растворяет лишнее — тревогу, суету, усталость. (пауза 10 секунд) Вообрази цветущий сад внутри себя. Каждая мысль — это цветок. Позволь им расцветать свободно и красиво, создавая гармонию.
-
-Повторяй: «Я в балансе. Моё сердце чисто. Я в гармонии с собой». Почувствуй лёгкость в теле и ясность в мыслях.
-
-Сделай несколько вдохов и выдохов, открой глаза. Сохрани ощущение внутреннего сада — спокойного, светлого и чистого."
+    "meditationText": "Ты — Дева, знак ясности, чистоты и внутреннего порядка. Сядь удобно, закрой глаза. Сделай глубокий вдох и долгий выдох. Представь, что мягкий зелёный свет окутывает тебя с головы до ног.\n\nНа вдохе этот свет наполняет гармонией, на выдохе растворяет лишнее — тревогу, суету, усталость. (пауза 10 секунд) Вообрази цветущий сад внутри себя. Каждая мысль — это цветок. Позволь им расцветать свободно и красиво, создавая гармонию.\n\nПовторяй: «Я в балансе. Моё сердце чисто. Я в гармонии с собой». Почувствуй лёгкость в теле и ясность в мыслях.\n\nСделай несколько вдохов и выдохов, открой глаза. Сохрани ощущение внутреннего сада — спокойного, светлого и чистого.",
+    "meditationText_en": "You are Virgo, a sign of clarity, purity, and inner order. Sit comfortably, close your eyes. Take a deep breath and a long exhale. Imagine a soft green light enveloping you from head to toe.\n\nWith each inhale, this light fills you with harmony; with each exhale, it dissolves anxiety, clutter, and fatigue. (Pause for 10 seconds) Picture a blooming garden within you. Each thought is a flower. Let them bloom freely and beautifully, creating harmony.\n\nRepeat: 'I am balanced. My heart is pure. I am in harmony with myself.' Feel lightness in your body and clarity in your thoughts.\n\nTake a few breaths, open your eyes, and carry the sense of an inner garden — calm, bright, and pure."
   },
   {
     "sign": "Весы",
+    "sign_en": "Libra",
     "element": "Воздух",
+    "element_en": "Air",
     "iconUrl": "https://alickshoff.github.io/yoga-api/libra.jpg",
     "audioUrl": "https://alickshoff.github.io/yoga-api/libra_female.mp3",
     "duration": "11 мин",
-    "meditationText": "Ты — Весы, знак равновесия и гармонии. Сядь удобно, закрой глаза. Сделай глубокий вдох и долгий выдох. Представь весы внутри себя.
-
-На вдохе в одну чашу ложится свет и радость. На выдохе из другой чаши уходит тяжесть и тревога. (пауза 10 секунд) С каждым дыханием равновесие становится устойчивым и лёгким.
-
-Повторяй: «Я спокоен. Я сбалансирован. Я в гармонии с миром». Почувствуй, как лёгкий поток воздуха очищает пространство внутри.
-
-Сделай три глубоких вдоха, пошевели пальцами и открой глаза, сохраняя ощущение гармонии и внутреннего равновесия."
+    "meditationText": "Ты — Весы, знак равновесия и гармонии. Сядь удобно, закрой глаза. Сделай глубокий вдох и долгий выдох. Представь весы внутри себя.\n\nНа вдохе в одну чашу ложится свет и радость. На выдохе из другой чаши уходит тяжесть и тревога. (пауза 10 секунд) С каждым дыханием равновесие становится устойчивым и лёгким.\n\nПовторяй: «Я спокоен. Я сбалансирован. Я в гармонии с миром». Почувствуй, как лёгкий поток воздуха очищает пространство внутри.\n\nСделай три глубоких вдоха, пошевели пальцами и открой глаза, сохраняя ощущение гармонии и внутреннего равновесия.",
+    "meditationText_en": "You are Libra, a sign of balance and harmony. Sit comfortably, close your eyes. Take a deep breath and a long exhale. Imagine scales within you.\n\nWith each inhale, one scale fills with light and joy; with each exhale, the other releases heaviness and anxiety. (Pause for 10 seconds) With each breath, balance becomes steady and light.\n\nRepeat: 'I am calm. I am balanced. I am in harmony with the world.' Feel a gentle airflow cleansing the space within.\n\nTake three deep breaths, wiggle your fingers, and open your eyes, carrying a sense of harmony and inner balance."
   },
   {
     "sign": "Скорпион",
+    "sign_en": "Scorpio",
     "element": "Вода",
+    "element_en": "Water",
     "iconUrl": "https://alickshoff.github.io/yoga-api/scorpio.jpg",
     "audioUrl": "https://alickshoff.github.io/yoga-api/scorpio_female.mp3",
     "duration": "14 мин",
-    "meditationText": "Ты — Скорпион, символ глубины и трансформации. Сядь удобно, закрой глаза. Сделай глубокий вдох, представь озеро с прозрачной водой.
-
-На вдохе вода становится чистой, дарит ясность. На выдохе — уносит тяжёлое и ненужное. (пауза 10 секунд) Почувствуй силу обновления.
-
-Повторяй: «Я отпускаю прошлое. Я принимаю новое». Заметь, как вместе с дыханием приходит лёгкость и свобода.
-
-Сделай три глубоких вдоха и мягко вернись в тело. Открой глаза обновлённым, с ощущением силы и внутренней чистоты."
+    "meditationText": "Ты — Скорпион, символ глубины и трансформации. Сядь удобно, закрой глаза. Сделай глубокий вдох, представь озеро с прозрачной водой.\n\nНа вдохе вода становится чистой, дарит ясность. На выдохе — уносит тяжёлое и ненужное. (пауза 10 секунд) Почувствуй силу обновления.\n\nПовторяй: «Я отпускаю прошлое. Я принимаю новое». Заметь, как вместе с дыханием приходит лёгкость и свобода.\n\nСделай три глубоких вдоха и мягко вернись в тело. Открой глаза обновлённым, с ощущением силы и внутренней чистоты.",
+    "meditationText_en": "You are Scorpio, a symbol of depth and transformation. Sit comfortably, close your eyes. Take a deep breath and imagine a lake with clear water.\n\nWith each inhale, the water becomes clearer, bringing clarity; with each exhale, it carries away heaviness and the unnecessary. (Pause for 10 seconds) Feel the power of renewal.\n\nRepeat: 'I release the past. I embrace the new.' Notice how lightness and freedom come with each breath.\n\nTake three deep breaths and gently return to your body. Open your eyes renewed, with a sense of strength and inner purity."
   },
   {
     "sign": "Стрелец",
+    "sign_en": "Sagittarius",
     "element": "Огонь",
+    "element_en": "Fire",
     "iconUrl": "https://alickshoff.github.io/yoga-api/sagittarius.jpg",
     "audioUrl": "https://alickshoff.github.io/yoga-api/sagittarius_female.mp3",
     "duration": "12 мин",
-    "meditationText": "Ты — Стрелец, знак свободы и устремлённости. Сядь с прямой спиной, закрой глаза. Сделай вдох и представь яркую звезду вдали.
-
-На вдохе звезда приближается, на выдохе её свет входит в тебя. (пауза 10 секунд) Ты чувствуешь лёгкость пути и открытые горизонты.
-
-Повторяй: «Я свободен. Я иду к цели. Я вдохновлён». Пусть энергия звезды наполняет сердце силой и радостью движения вперёд.
-
-Сделай три вдоха и выдоха, медленно открой глаза и вернись, сохраняя ощущение вдохновения."
+    "meditationText": "Ты — Стрелец, знак свободы и устремлённости. Сядь с прямой спиной, закрой глаза. Сделай вдох и представь яркую звезду вдали.\n\nНа вдохе звезда приближается, на выдохе её свет входит в тебя. (пауза 10 секунд) Ты чувствуешь лёгкость пути и открытые горизонты.\n\nПовторяй: «Я свободен. Я иду к цели. Я вдохновлён». Пусть энергия звезды наполняет сердце силой и радостью движения вперёд.\n\nСделай три вдоха и выдоха, медленно открой глаза и вернись, сохраняя ощущение вдохновения.",
+    "meditationText_en": "You are Sagittarius, a sign of freedom and aspiration. Sit with a straight back, close your eyes. Take a breath and imagine a bright star in the distance.\n\nWith each inhale, the star draws closer; with each exhale, its light enters you. (Pause for 10 seconds) Feel the ease of the journey and open horizons.\n\nRepeat: 'I am free. I move toward my goals. I am inspired.' Let the star’s energy fill your heart with strength and the joy of moving forward.\n\nTake three breaths, slowly open your eyes, and return, carrying a sense of inspiration."
   },
   {
     "sign": "Козерог",
+    "sign_en": "Capricorn",
     "element": "Земля",
+    "element_en": "Earth",
     "iconUrl": "https://alickshoff.github.io/yoga-api/capricorn.jpg",
     "audioUrl": "https://alickshoff.github.io/yoga-api/capricorn_female.mp3",
     "duration": "13 мин",
-    "meditationText": "Ты — Козерог, символ стойкости и выносливости. Сядь прямо, закрой глаза. Сделай вдох и представь высокую гору.
-
-На каждом вдохе ты поднимаешься выше. На каждом выдохе укрепляешься на склоне. (пауза 10 секунд) Почувствуй уверенность в каждом шаге.
-
-Повторяй: «Я силён. Я иду вперёд. Я устойчив». Пусть энергия горы наполняет тело силой и спокойствием.
-
-Сделай три глубоких вдоха, вернись в тело и открой глаза, сохраняя ощущение стойкости."
+    "meditationText": "Ты — Козерог, символ стойкости и выносливости. Сядь прямо, закрой глаза. Сделай вдох и представь высокую гору.\n\nНа каждом вдохе ты поднимаешься выше. На каждом выдохе укрепляешься на склоне. (пауза 10 секунд) Почувствуй уверенность в каждом шаге.\n\nПовторяй: «Я силён. Я иду вперёд. Я устойчив». Пусть энергия горы наполняет тело силой и спокойствием.\n\nСделай три глубоких вдоха, вернись в тело и открой глаза, сохраняя ощущение стойкости.",
+    "meditationText_en": "You are Capricorn, a symbol of resilience and endurance. Sit upright, close your eyes. Take a breath and imagine a tall mountain.\n\nWith each inhale, you climb higher; with each exhale, you grow stronger on the slope. (Pause for 10 seconds) Feel confidence in every step.\n\nRepeat: 'I am strong. I move forward. I am steady.' Let the mountain’s energy fill your body with strength and calm.\n\nTake three deep breaths, return to your body, and open your eyes, carrying a sense of resilience."
   },
   {
     "sign": "Водолей",
+    "sign_en": "Aquarius",
     "element": "Воздух",
+    "element_en": "Air",
     "iconUrl": "https://alickshoff.github.io/yoga-api/aquarius.jpg",
     "audioUrl": "https://alickshoff.github.io/yoga-api/aquarius_female.mp3",
     "duration": "12 мин",
-    "meditationText": "Ты — Водолей, знак свободы духа и вдохновения. Сядь удобно, закрой глаза. Сделай вдох и представь лёгкий поток воздуха вокруг.
-
-На вдохе он приносит новые идеи, на выдохе уносит сомнения. (пауза 10 секунд) Почувствуй, как пространство внутри раскрывается.
-
-Повторяй: «Я открыт новому. Я вдохновлён. Я свободен». Пусть этот поток наполняет лёгкостью и внутренней ясностью.
-
-Сделай три вдоха и медленно вернись в настоящий момент, сохраняя ощущение свежести."
+    "meditationText": "Ты — Водолей, знак свободы духа и вдохновения. Сядь удобно, закрой глаза. Сделай вдох и представь лёгкий поток воздуха вокруг.\n\nНа вдохе он приносит новые идеи, на выдохе уносит сомнения. (пауза 10 секунд) Почувствуй, как пространство внутри раскрывается.\n\nПовторяй: «Я открыт новому. Я вдохновлён. Я свободен». Пусть этот поток наполняет лёгкостью и внутренней ясностью.\n\nСделай три вдоха и медленно вернись в настоящий момент, сохраняя ощущение свежести.",
+    "meditationText_en": "You are Aquarius, a sign of spiritual freedom and inspiration. Sit comfortably, close your eyes. Take a breath and imagine a gentle airflow around you.\n\nWith each inhale, it brings new ideas; with each exhale, it carries away doubts. (Pause for 10 seconds) Feel the space within you opening.\n\nRepeat: 'I am open to the new. I am inspired. I am free.' Let this flow fill you with lightness and inner clarity.\n\nTake three breaths and slowly return to the present moment, carrying a sense of freshness."
   },
   {
     "sign": "Рыбы",
+    "sign_en": "Pisces",
     "element": "Вода",
+    "element_en": "Water",
     "iconUrl": "https://alickshoff.github.io/yoga-api/pisces.jpg",
     "audioUrl": "https://alickshoff.github.io/yoga-api/pisces_female.mp3",
     "duration": "14 мин",
-    "meditationText": "Ты — Рыбы, символ интуиции и мягкости. Сядь или ляг удобно, закрой глаза. Представь, что находишься в прозрачной воде, где легко дышится.
-
-На вдохе вода наполняет тебя покоем, на выдохе уносит заботы. (пауза 10 секунд) Почувствуй, как течение ведёт тебя мягко и спокойно.
-
-Повторяй: «Я доверяю жизни. Я спокоен. Я открыт». Пусть вода очистит душу и наполнит её лёгкостью.
-
-Сделай три глубоких вдоха, мягко пошевели пальцами и вернись в тело. Открой глаза, сохраняя ощущение покоя и доверия миру."
+    "meditationText": "Ты — Рыбы, символ интуиции и мягкости. Сядь или ляг удобно, закрой глаза. Представь, что находишься в прозрачной воде, где легко дышится.\n\nНа вдохе вода наполняет тебя покоем, на выдохе уносит заботы. (пауза 10 секунд) Почувствуй, как течение ведёт тебя мягко и спокойно.\n\nПовторяй: «Я доверяю жизни. Я спокоен. Я открыт». Пусть вода очистит душу и наполнит её лёгкостью.\n\nСделай три глубоких вдоха, мягко пошевели пальцами и вернись в тело. Открой глаза, сохраняя ощущение покоя и доверия миру.",
+    "meditationText_en": "You are Pisces, a symbol of intuition and softness. Sit or lie comfortably, close your eyes. Imagine being in clear water where breathing is easy.\n\nWith each inhale, the water fills you with peace; with each exhale, it carries away worries. (Pause for 10 seconds) Feel the current guiding you gently and calmly.\n\nRepeat: 'I trust life. I am calm. I am open.' Let the water cleanse your soul and fill it with lightness.\n\nTake three deep breaths, gently wiggle your fingers, and return to your body. Open your eyes, carrying a sense of peace and trust in the world."
   }
 ]
