@@ -9,7 +9,9 @@
       "Develops balance",
       "Reduces physical tension"
     ],
-    "image": "https://source.unsplash.com/600x400/?yoga",
+    "image": "https://images.pexels.com/photos/708705/pexels-photo-708705.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "photographer": "Andrea Piacquadio",
+    "photographer_url": "https://www.pexels.com/@andrea-piacquadio",
     "instructions": [
       "Stand straight with feet together or slightly apart.",
       "Distribute weight evenly across both feet.",
@@ -17,7 +19,7 @@
       "Lower your shoulders, let your arms hang naturally with palms facing thighs.",
       "Lengthen your neck, gaze forward.",
       "Breathe calmly for 30–60 seconds."
-    ],
+    ]
   },
   {
     "id": 2,
@@ -29,7 +31,9 @@
       "Enhances emotional resilience",
       "Promotes better sleep"
     ],
-    "image": "https://source.unsplash.com/600x400/?hatha",
+    "image": "https://images.pexels.com/photos/2204196/pexels-photo-2204196.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "photographer": "Lina Trochez",
+    "photographer_url": "https://www.pexels.com/@lina-trochez",
     "instructions": [
       "Sit comfortably on a chair, cushion, or bench.",
       "Keep your back straight but not tense.",
@@ -37,7 +41,7 @@
       "Focus on your breath: inhale and exhale.",
       "When thoughts distract you, gently return to your breath.",
       "Practice for 5–10 minutes daily."
-    ],
+    ]
   },
   {
     "id": 3,
@@ -49,7 +53,9 @@
       "Relieves fatigue",
       "Stimulates blood circulation"
     ],
-    "image": "https://source.unsplash.com/600x400/?meditation",
+    "image": "https://images.pexels.com/photos/3823113/pexels-photo-3823113.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "photographer": "Ketut Subiyanto",
+    "photographer_url": "https://www.pexels.com/@ketut-subiyanto",
     "instructions": [
       "Start in a tabletop position on all fours.",
       "Place your hands slightly ahead of your shoulders, fingers spread wide.",
@@ -57,7 +63,7 @@
       "Form an inverted triangle with your body from shoulders to heels.",
       "Keep your head between your arms, neck relaxed.",
       "Breathe deeply for 30–60 seconds."
-    ],
+    ]
   },
   {
     "id": 4,
@@ -69,7 +75,9 @@
       "Improves concentration",
       "Prepares for meditation"
     ],
-    "image": "https://source.unsplash.com/600x400/?ashtanga",
+    "image": "https://images.pexels.com/photos/7086194/pexels-photo-7086194.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "photographer": "cottonbro studio",
+    "photographer_url": "https://www.pexels.com/@cottonbro",
     "instructions": [
       "Sit upright with a straight spine.",
       "Using your right hand, form a 'mudra gesture': thumb and ring finger free.",
@@ -78,7 +86,7 @@
       "Close your left nostril with your ring finger, open your right, and exhale.",
       "Inhale through the right, close it, exhale through the left—this is one cycle.",
       "Repeat for 5–10 cycles."
-    ],
+    ]
   },
   {
     "id": 5,
@@ -90,14 +98,16 @@
       "Helps with headaches",
       "Ideal before bedtime"
     ],
-    "image": "https://source.unsplash.com/600x400/?relax",
+    "image": "https://images.pexels.com/photos/7086200/pexels-photo-7086200.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "photographer": "cottonbro studio",
+    "photographer_url": "https://www.pexels.com/@cottonbro",
     "instructions": [
       "Kneel with your hips resting on your heels.",
       "Lean forward, placing your chest between your thighs.",
       "Extend your arms forward or rest them alongside your body, palms up.",
       "Rest your forehead on the floor.",
       "Breathe calmly for 1–3 minutes."
-    ],
+    ]
   },
   {
     "id": 6,
@@ -109,7 +119,9 @@
       "Helps with insomnia",
       "Develops body awareness"
     ],
-    "image": "https://images.unsplash.com/photo-1518612064182-d6a2630a094e?w=800",
+    "image": "https://images.pexels.com/photos/7086203/pexels-photo-7086203.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "photographer": "cottonbro studio",
+    "photographer_url": "https://www.pexels.com/@cottonbro",
     "instructions": [
       "Lie on your back with arms at your sides, palms up.",
       "Close your eyes and take a few deep breaths.",
@@ -118,7 +130,7 @@
       "Continue to the crown of your head.",
       "Stay in this state for 5–10 minutes.",
       "Slowly return to awareness."
-    ],
+    ]
   },
   {
     "id": 7,
@@ -130,14 +142,16 @@
       "Develops balance",
       "Enhances willpower"
     ],
-    "image": "https://images.unsplash.com/photo-1552196563-55cd4e45efb3?w=800",
+    "image": "https://images.pexels.com/photos/3823117/pexels-photo-3823117.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "photographer": "Ketut Subiyanto",
+    "photographer_url": "https://www.pexels.com/@ketut-subiyanto",
     "instructions": [
       "Stand straight, take a wide step back.",
       "Bend your front knee to a 90-degree angle, keep the back leg straight.",
       "Extend your arms parallel to the floor.",
       "Gaze forward.",
       "Hold the pose for 30–60 seconds on each side."
-    ],
+    ]
   },
   {
     "id": 8,
@@ -149,14 +163,16 @@
       "Relieves nervous tension",
       "Sharpens mental focus"
     ],
-    "image": "https://images.unsplash.com/photo-1599058917212-d750089bc0d7?w=800",
+    "image": "https://images.pexels.com/photos/3823120/pexels-photo-3823120.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "photographer": "Ketut Subiyanto",
+    "photographer_url": "https://www.pexels.com/@ketut-subiyanto",
     "instructions": [
       "Stand straight with feet together.",
       "Place the sole of your right foot on the inner thigh of your left leg.",
       "Press your palms together at chest level or raise your arms overhead.",
       "Maintain balance and steady breathing.",
       "Hold for 30–60 seconds, then switch legs."
-    ],
+    ]
   },
   {
     "id": 9,
@@ -168,14 +184,16 @@
       "Normalizes breathing",
       "Decreases fatigue"
     ],
-    "image": "https://images.unsplash.com/photo-1607969892219-9bc7d4a9c879?w=800",
+    "image": "https://images.pexels.com/photos/7086205/pexels-photo-7086205.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "photographer": "cottonbro studio",
+    "photographer_url": "https://www.pexels.com/@cottonbro",
     "instructions": [
       "Lie on your back with arms and legs relaxed.",
       "Close your eyes.",
       "Focus on your breath.",
       "Fully release tension.",
       "Remain for 5–10 minutes."
-    ],
+    ]
   },
   {
     "id": 10,
@@ -187,14 +205,16 @@
       "Stimulates abdominal organs",
       "Boosts energy levels"
     ],
-    "image": "https://images.unsplash.com/photo-1599447421416-9a5f8a917a83?w=800",
+    "image": "https://images.pexels.com/photos/3823122/pexels-photo-3823122.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "photographer": "Ketut Subiyanto",
+    "photographer_url": "https://www.pexels.com/@ketut-subiyanto",
     "instructions": [
       "Lie face down with palms under your shoulders.",
       "On an inhale, lift your chest, straightening your arms.",
       "Draw your shoulders back and down.",
       "Keep your hips and legs pressed into the floor.",
       "Breathe calmly for 15–30 seconds."
-    ],
+    ]
   },
   {
     "id": 11,
@@ -206,7 +226,9 @@
       "Improves flexibility",
       "Enhances digestion"
     ],
-    "image": "https://source.unsplash.com/600x400/?yoga,triangle&sig=11",
+    "image": "https://images.pexels.com/photos/3823124/pexels-photo-3823124.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "photographer": "Ketut Subiyanto",
+    "photographer_url": "https://www.pexels.com/@ketut-subiyanto",
     "instructions": [
       "Stand with feet wide apart, about 3–4 feet.",
       "Turn your right foot out 90 degrees, left foot slightly in.",
@@ -214,7 +236,7 @@
       "Reach your right hand toward your right foot, resting it on your shin or the floor.",
       "Extend your left arm upward, gaze toward your left hand.",
       "Hold for 30–60 seconds, then switch sides."
-    ],
+    ]
   },
   {
     "id": 12,
@@ -226,14 +248,16 @@
       "Improves digestion",
       "Relieves menstrual discomfort"
     ],
-    "image": "https://source.unsplash.com/600x400/?yoga,seated&sig=12",
+    "image": "https://images.pexels.com/photos/7086207/pexels-photo-7086207.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "photographer": "cottonbro studio",
+    "photographer_url": "https://www.pexels.com/@cottonbro",
     "instructions": [
       "Sit with legs extended straight in front of you.",
       "Inhale, lengthen your spine, and raise your arms.",
       "Exhale, hinge at your hips, and reach for your feet or shins.",
       "Keep your spine long, avoid rounding your back.",
       "Hold for 1–3 minutes, breathing deeply."
-    ],
+    ]
   },
   {
     "id": 13,
@@ -245,14 +269,16 @@
       "Enhances empathy",
       "Improves relationships"
     ],
-    "image": "https://source.unsplash.com/600x400/?meditation,compassion&sig=13",
+    "image": "https://images.pexels.com/photos/7086209/pexels-photo-7086209.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "photographer": "cottonbro studio",
+    "photographer_url": "https://www.pexels.com/@cottonbro",
     "instructions": [
       "Sit comfortably with a straight spine.",
       "Close your eyes and take a few deep breaths.",
       "Repeat phrases like 'May I be happy, may I be healthy.'",
       "Extend these wishes to loved ones, acquaintances, and all beings.",
       "Practice for 10–15 minutes, focusing on feelings of warmth."
-    ],
+    ]
   },
   {
     "id": 14,
@@ -264,14 +290,16 @@
       "Relieves lower back tension",
       "Stimulates thyroid function"
     ],
-    "image": "https://source.unsplash.com/600x400/?yoga,bridge&sig=14",
+    "image": "https://images.pexels.com/photos/7086211/pexels-photo-7086211.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "photographer": "cottonbro studio",
+    "photographer_url": "https://www.pexels.com/@cottonbro",
     "instructions": [
       "Lie on your back with knees bent, feet hip-width apart.",
       "Place your arms alongside your body, palms down.",
       "Inhale, lift your hips toward the ceiling.",
       "Press into your feet, keep your knees aligned.",
       "Hold for 30–60 seconds, then lower slowly."
-    ],
+    ]
   },
   {
     "id": 15,
@@ -283,13 +311,15 @@
       "Improves posture",
       "Calms the mind"
     ],
-    "image": "https://source.unsplash.com/600x400/?yoga,catcow&sig=15",
+    "image": "https://images.pexels.com/photos/7086213/pexels-photo-7086213.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "photographer": "cottonbro studio",
+    "photographer_url": "https://www.pexels.com/@cottonbro",
     "instructions": [
       "Start on all fours, hands under shoulders, knees under hips.",
       "Inhale, arch your back, lifting your chest and tailbone (Cow).",
       "Exhale, round your spine, tucking your chin and tailbone (Cat).",
       "Flow between poses for 5–10 breaths."
-    ],
+    ]
   },
   {
     "id": 16,
@@ -301,14 +331,16 @@
       "Enhances mental clarity",
       "Supports detoxification"
     ],
-    "image": "https://source.unsplash.com/600x400/?yoga,breathing&sig=16",
+    "image": "https://images.pexels.com/photos/7086215/pexels-photo-7086215.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "photographer": "cottonbro studio",
+    "photographer_url": "https://www.pexels.com/@cottonbro",
     "instructions": [
       "Sit upright with a straight spine.",
       "Take a few deep breaths to prepare.",
       "Exhale sharply through your nose, contracting your abdomen.",
       "Let inhalations happen passively between exhales.",
       "Perform for 30 seconds, then rest and repeat 2–3 times."
-    ],
+    ]
   },
   {
     "id": 17,
@@ -320,14 +352,16 @@
       "Improves focus",
       "Enhances stamina"
     ],
-    "image": "https://source.unsplash.com/600x400/?yoga,warrior&sig=17",
+    "image": "https://images.pexels.com/photos/3823126/pexels-photo-3823126.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "photographer": "Ketut Subiyanto",
+    "photographer_url": "https://www.pexels.com/@ketut-subiyanto",
     "instructions": [
       "Stand with feet wide apart, turn your right foot out 90 degrees.",
       "Bend your right knee to a 90-degree angle, keep left leg straight.",
       "Raise your arms overhead, palms facing each other.",
       "Square your hips toward the front, gaze forward.",
       "Hold for 30–60 seconds, then switch sides."
-    ],
+    ]
   },
   {
     "id": 18,
@@ -339,14 +373,16 @@
       "Improves mental health",
       "Enhances life satisfaction"
     ],
-    "image": "https://source.unsplash.com/600x400/?meditation,gratitude&sig=18",
+    "image": "https://images.pexels.com/photos/7086217/pexels-photo-7086217.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "photographer": "cottonbro studio",
+    "photographer_url": "https://www.pexels.com/@cottonbro",
     "instructions": [
       "Sit or lie down in a comfortable position.",
       "Close your eyes and take a few deep breaths.",
       "Reflect on things you’re grateful for, big or small.",
       "Feel the warmth and positivity of each thought.",
       "Practice for 5–10 minutes."
-    ],
+    ]
   },
   {
     "id": 19,
@@ -358,14 +394,16 @@
       "Stretches hips and groin",
       "Enhances focus"
     ],
-    "image": "https://source.unsplash.com/600x400/?yoga,halfmoon&sig=19",
+    "image": "https://images.pexels.com/photos/3823128/pexels-photo-3823128.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "photographer": "Ketut Subiyanto",
+    "photographer_url": "https://www.pexels.com/@ketut-subiyanto",
     "instructions": [
       "Start in Triangle Pose with your right hand on the floor or a block.",
       "Lift your left leg parallel to the floor, keeping it straight.",
       "Extend your left arm upward, open your chest.",
       "Balance on your right leg and hand, gaze upward or forward.",
       "Hold for 30–60 seconds, then switch sides."
-    ],
+    ]
   },
   {
     "id": 20,
@@ -377,13 +415,15 @@
       "Calms the nervous system",
       "Stretches the upper back"
     ],
-    "image": "https://source.unsplash.com/600x400/?yoga,twist&sig=20",
+    "image": "https://images.pexels.com/photos/7086219/pexels-photo-7086219.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "photographer": "cottonbro studio",
+    "photographer_url": "https://www.pexels.com/@cottonbro",
     "instructions": [
       "Start on all fours, hands under shoulders, knees under hips.",
       "Thread your right arm under your body, resting your shoulder on the floor.",
       "Lower your chest toward the ground, keeping hips high.",
       "Hold for 30–60 seconds, breathing deeply, then switch sides."
-    ],
+    ]
   },
   {
     "id": 21,
@@ -395,14 +435,16 @@
       "Improves vocal strength",
       "Reduces stress"
     ],
-    "image": "https://source.unsplash.com/600x400/?yoga,lion&sig=21",
+    "image": "https://images.pexels.com/photos/7086221/pexels-photo-7086221.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "photographer": "cottonbro studio",
+    "photographer_url": "https://www.pexels.com/@cottonbro",
     "instructions": [
       "Sit in a comfortable position, such as kneeling or cross-legged.",
       "Inhale deeply through your nose.",
       "Exhale forcefully through your mouth, sticking out your tongue and roaring.",
       "Open your eyes wide and gaze upward.",
       "Repeat 5–10 times, resting between rounds."
-    ],
+    ]
   },
   {
     "id": 22,
@@ -414,13 +456,15 @@
       "Improves circulation",
       "Eases menstrual discomfort"
     ],
-    "image": "https://source.unsplash.com/600x400/?yoga,reclining&sig=22",
+    "image": "https://images.pexels.com/photos/7086223/pexels-photo-7086223.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "photographer": "cottonbro studio",
+    "photographer_url": "https://www.pexels.com/@cottonbro",
     "instructions": [
       "Lie on your back, bring the soles of your feet together, knees out to the sides.",
       "Place your arms relaxed by your sides or on your abdomen.",
       "Use props under your knees for support if needed.",
       "Breathe deeply and hold for 3–5 minutes."
-    ],
+    ]
   },
   {
     "id": 23,
@@ -432,14 +476,16 @@
       "Enhances physical awareness",
       "Promotes mental clarity"
     ],
-    "image": "https://source.unsplash.com/600x400/?meditation,walking&sig=23",
+    "image": "https://images.pexels.com/photos/7086225/pexels-photo-7086225.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "photographer": "cottonbro studio",
+    "photographer_url": "https://www.pexels.com/@cottonbro",
     "instructions": [
       "Find a quiet space where you can walk slowly.",
       "Walk at a natural pace, focusing on each step.",
       "Notice the sensation of your feet touching the ground.",
       "Coordinate your breath with your steps if desired.",
       "Practice for 10–15 minutes."
-    ],
+    ]
   },
   {
     "id": 24,
@@ -451,13 +497,15 @@
       "Stretches shoulders and upper back",
       "Enhances focus"
     ],
-    "image": "https://source.unsplash.com/600x400/?yoga,eagle&sig=24",
+    "image": "https://images.pexels.com/photos/3823130/pexels-photo-3823130.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "photographer": "Ketut Subiyanto",
+    "photographer_url": "https://www.pexels.com/@ketut-subiyanto",
     "instructions": [
       "Stand straight, bend your knees slightly.",
       "Cross your right thigh over your left, hooking your right foot behind the left calf.",
       "Cross your left arm over your right, bending elbows to hook hands.",
       "Balance and hold for 30–60 seconds, then switch sides."
-    ],
+    ]
   },
   {
     "id": 25,
@@ -469,12 +517,14 @@
       "Stretches hips and lower back",
       "Calms the nervous system"
     ],
-    "image": "https://source.unsplash.com/600x400/?yoga,twist&sig=25",
+    "image": "https://images.pexels.com/photos/7086227/pexels-photo-7086227.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "photographer": "cottonbro studio",
+    "photographer_url": "https://www.pexels.com/@cottonbro",
     "instructions": [
       "Lie on your back with arms extended to the sides.",
       "Bring your right knee to your chest, then guide it across your body to the left.",
       "Keep your shoulders flat on the ground, gaze to the right.",
       "Hold for 1–2 minutes, then switch sides."
-    ],
+    ]
   }
 ]
