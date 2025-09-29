@@ -1,0 +1,199 @@
+[
+  {
+    "id": 1,
+    "title": "Mountain Pose (Tadasana)",
+    "description": "Mountain Pose is the foundation of all standing poses. It improves posture, strengthens the legs, and helps with focus.",
+    "benefits": [
+      "Improves posture",
+      "Strengthens leg and foot muscles",
+      "Develops balance",
+      "Reduces physical tension"
+    ],
+    "image": "https://source.unsplash.com/600x400/?yoga",
+    "instructions": [
+      "Stand straight with feet together or slightly apart.",
+      "Distribute weight evenly across both feet.",
+      "Engage your knees, draw in your thighs, and contract your glutes.",
+      "Lower your shoulders, let your arms hang naturally with palms facing thighs.",
+      "Lengthen your neck, gaze forward.",
+      "Breathe calmly for 30–60 seconds."
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Mindfulness Meditation",
+    "description": "A practice of being present in the moment without judging thoughts or feelings. Ideal for reducing anxiety.",
+    "benefits": [
+      "Reduces stress levels",
+      "Improves concentration",
+      "Enhances emotional resilience",
+      "Promotes better sleep"
+    ],
+    "image": "https://source.unsplash.com/600x400/?hatha",
+    "instructions": [
+      "Sit comfortably on a chair, cushion, or bench.",
+      "Keep your back straight but not tense.",
+      "Close your eyes or lower your gaze.",
+      "Focus on your breath: inhale and exhale.",
+      "When thoughts distract you, gently return to your breath.",
+      "Practice for 5–10 minutes daily."
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Downward-Facing Dog (Adho Mukha Svanasana)",
+    "description": "One of the most common poses, it stretches the entire body, particularly the back, legs, and shoulders.",
+    "benefits": [
+      "Stretches the spine and hamstrings",
+      "Strengthens arms and shoulders",
+      "Relieves fatigue",
+      "Stimulates blood circulation"
+    ],
+    "image": "https://source.unsplash.com/600x400/?meditation",
+    "instructions": [
+      "Start in a tabletop position on all fours.",
+      "Place your hands slightly ahead of your shoulders, fingers spread wide.",
+      "Lift your hips up, straightening your legs (knees can be slightly bent).",
+      "Form an inverted triangle with your body from shoulders to heels.",
+      "Keep your head between your arms, neck relaxed.",
+      "Breathe deeply for 30–60 seconds."
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Pranayama Breathing: Nadi Shodhana",
+    "description": "Alternate nostril breathing calms the mind and balances energy flows.",
+    "benefits": [
+      "Calms the nervous system",
+      "Balances left and right brain hemispheres",
+      "Improves concentration",
+      "Prepares for meditation"
+    ],
+    "image": "https://source.unsplash.com/600x400/?ashtanga",
+    "instructions": [
+      "Sit upright with a straight spine.",
+      "Using your right hand, form a 'mudra gesture': thumb and ring finger free.",
+      "Close your right nostril with your thumb.",
+      "Inhale slowly through your left nostril.",
+      "Close your left nostril with your ring finger, open your right, and exhale.",
+      "Inhale through the right, close it, exhale through the left—this is one cycle.",
+      "Repeat for 5–10 cycles."
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Child’s Pose (Balasana)",
+    "description": "A relaxing pose for rest and recovery, excellent for relieving back tension.",
+    "benefits": [
+      "Calms the nervous system",
+      "Relieves neck and back tension",
+      "Helps with headaches",
+      "Ideal before bedtime"
+    ],
+    "image": "https://source.unsplash.com/600x400/?relax",
+    "instructions": [
+      "Kneel with your hips resting on your heels.",
+      "Lean forward, placing your chest between your thighs.",
+      "Extend your arms forward or rest them alongside your body, palms up.",
+      "Rest your forehead on the floor.",
+      "Breathe calmly for 1–3 minutes."
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Body Scan Meditation",
+    "description": "A meditation practice where you sequentially focus on each part of the body, from toes to head.",
+    "benefits": [
+      "Deep relaxation",
+      "Reduces muscle tension",
+      "Helps with insomnia",
+      "Develops body awareness"
+    ],
+    "image": "https://images.unsplash.com/photo-1518612064182-d6a2630a094e?w=800",
+    "instructions": [
+      "Lie on your back with arms at your sides, palms up.",
+      "Close your eyes and take a few deep breaths.",
+      "Focus on the tips of your toes, feeling them.",
+      "Slowly move upward: feet, ankles, calves, knees, thighs...",
+      "Continue to the crown of your head.",
+      "Stay in this state for 5–10 minutes.",
+      "Slowly return to awareness."
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Warrior II Pose (Virabhadrasana II)",
+    "description": "A classic power pose that builds endurance and concentration.",
+    "benefits": [
+      "Strengthens legs and arms",
+      "Opens the chest and hips",
+      "Develops balance",
+      "Enhances willpower"
+    ],
+    "image": "https://images.unsplash.com/photo-1552196563-55cd4e45efb3?w=800",
+    "instructions": [
+      "Stand straight, take a wide step back.",
+      "Bend your front knee to a 90-degree angle, keep the back leg straight.",
+      "Extend your arms parallel to the floor.",
+      "Gaze forward.",
+      "Hold the pose for 30–60 seconds on each side."
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Tree Pose (Vrksasana)",
+    "description": "A balancing pose that develops stability and focus.",
+    "benefits": [
+      "Strengthens leg muscles",
+      "Improves balance",
+      "Relieves nervous tension",
+      "Sharpens mental focus"
+    ],
+    "image": "https://images.unsplash.com/photo-1599058917212-d750089bc0d7?w=800",
+    "instructions": [
+      "Stand straight with feet together.",
+      "Place the sole of your right foot on the inner thigh of your left leg.",
+      "Press your palms together at chest level or raise your arms overhead.",
+      "Maintain balance and steady breathing.",
+      "Hold for 30–60 seconds, then switch legs."
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Corpse Pose (Savasana)",
+    "description": "A final relaxation pose to restore energy.",
+    "benefits": [
+      "Deep physical relaxation",
+      "Reduces stress",
+      "Normalizes breathing",
+      "Decreases fatigue"
+    ],
+    "image": "https://images.unsplash.com/photo-1607969892219-9bc7d4a9c879?w=800",
+    "instructions": [
+      "Lie on your back with arms and legs relaxed.",
+      "Close your eyes.",
+      "Focus on your breath.",
+      "Fully release tension.",
+      "Remain for 5–10 minutes."
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Cobra Pose (Bhujangasana)",
+    "description": "A gentle backbend that strengthens the spine and opens the chest.",
+    "benefits": [
+      "Strengthens back muscles",
+      "Improves spinal flexibility",
+      "Stimulates abdominal organs",
+      "Boosts energy levels"
+    ],
+    "image": "https://images.unsplash.com/photo-1599447421416-9a5f8a917a83?w=800",
+    "instructions": [
+      "Lie face down with palms under your shoulders.",
+      "On an inhale, lift your chest, straightening your arms.",
+      "Draw your shoulders back and down.",
+      "Keep your hips and legs pressed into the floor.",
+      "Breathe calmly for 15–30 seconds."
+    ]
+  }
+]
