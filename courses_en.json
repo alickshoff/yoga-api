@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "title": "Mountain Pose (Tadasana)",
+    "title": "1. Mountain Pose (Tadasana)",
     "description": "Mountain Pose is the foundation of all standing poses. It improves posture, strengthens the legs, and helps with focus.",
     "benefits": [
       "Improves posture",
@@ -18,11 +18,10 @@
       "Lengthen your neck, gaze forward.",
       "Breathe calmly for 30–60 seconds."
     ],
-    "audioUrl": ""
   },
   {
     "id": 2,
-    "title": "Mindfulness Meditation",
+    "title": "2. Mindfulness Meditation",
     "description": "A practice of being present in the moment without judging thoughts or feelings. Ideal for reducing anxiety.",
     "benefits": [
       "Reduces stress levels",
@@ -39,11 +38,10 @@
       "When thoughts distract you, gently return to your breath.",
       "Practice for 5–10 minutes daily."
     ],
-    "audioUrl": "https://alickshoff.github.io/yoga-api/meditation_yogas.mp3"
   },
   {
     "id": 3,
-    "title": "Downward-Facing Dog (Adho Mukha Svanasana)",
+    "title": "3. Downward-Facing Dog (Adho Mukha Svanasana)",
     "description": "One of the most common poses, it stretches the entire body, particularly the back, legs, and shoulders.",
     "benefits": [
       "Stretches the spine and hamstrings",
@@ -60,11 +58,10 @@
       "Keep your head between your arms, neck relaxed.",
       "Breathe deeply for 30–60 seconds."
     ],
-    "audioUrl": ""
   },
   {
     "id": 4,
-    "title": "Pranayama Breathing: Nadi Shodhana",
+    "title": "4. Pranayama Breathing: Nadi Shodhana",
     "description": "Alternate nostril breathing calms the mind and balances energy flows.",
     "benefits": [
       "Calms the nervous system",
@@ -82,11 +79,10 @@
       "Inhale through the right, close it, exhale through the left—this is one cycle.",
       "Repeat for 5–10 cycles."
     ],
-    "audioUrl": ""
   },
   {
     "id": 5,
-    "title": "Child’s Pose (Balasana)",
+    "title": "5. Child’s Pose (Balasana)",
     "description": "A relaxing pose for rest and recovery, excellent for relieving back tension.",
     "benefits": [
       "Calms the nervous system",
@@ -102,11 +98,10 @@
       "Rest your forehead on the floor.",
       "Breathe calmly for 1–3 minutes."
     ],
-    "audioUrl": ""
   },
   {
     "id": 6,
-    "title": "Body Scan Meditation",
+    "title": "6. Body Scan Meditation",
     "description": "A meditation practice where you sequentially focus on each part of the body, from toes to head.",
     "benefits": [
       "Deep relaxation",
@@ -124,11 +119,10 @@
       "Stay in this state for 5–10 minutes.",
       "Slowly return to awareness."
     ],
-    "audioUrl": "https://alickshoff.github.io/yoga-api/meditation_yogas.mp3"
   },
   {
     "id": 7,
-    "title": "Warrior II Pose (Virabhadrasana II)",
+    "title": "7. Warrior II Pose (Virabhadrasana II)",
     "description": "A classic power pose that builds endurance and concentration.",
     "benefits": [
       "Strengthens legs and arms",
@@ -144,11 +138,10 @@
       "Gaze forward.",
       "Hold the pose for 30–60 seconds on each side."
     ],
-    "audioUrl": ""
   },
   {
     "id": 8,
-    "title": "Tree Pose (Vrksasana)",
+    "title": "8. Tree Pose (Vrksasana)",
     "description": "A balancing pose that develops stability and focus.",
     "benefits": [
       "Strengthens leg muscles",
@@ -164,11 +157,10 @@
       "Maintain balance and steady breathing.",
       "Hold for 30–60 seconds, then switch legs."
     ],
-    "audioUrl": ""
   },
   {
     "id": 9,
-    "title": "Corpse Pose (Savasana)",
+    "title": "9. Corpse Pose (Savasana)",
     "description": "A final relaxation pose to restore energy.",
     "benefits": [
       "Deep physical relaxation",
@@ -184,11 +176,10 @@
       "Fully release tension.",
       "Remain for 5–10 minutes."
     ],
-    "audioUrl": ""
   },
   {
     "id": 10,
-    "title": "Cobra Pose (Bhujangasana)",
+    "title": "10. Cobra Pose (Bhujangasana)",
     "description": "A gentle backbend that strengthens the spine and opens the chest.",
     "benefits": [
       "Strengthens back muscles",
@@ -204,11 +195,10 @@
       "Keep your hips and legs pressed into the floor.",
       "Breathe calmly for 15–30 seconds."
     ],
-    "audioUrl": ""
   },
   {
     "id": 11,
-    "title": "Triangle Pose (Trikonasana)",
+    "title": "11. Triangle Pose (Trikonasana)",
     "description": "A standing pose that stretches the sides of the body and strengthens the core.",
     "benefits": [
       "Stretches the hips and spine",
@@ -225,11 +215,10 @@
       "Extend your left arm upward, gaze toward your left hand.",
       "Hold for 30–60 seconds, then switch sides."
     ],
-    "audioUrl": ""
   },
   {
     "id": 12,
-    "title": "Seated Forward Bend (Paschimottanasana)",
+    "title": "12. Seated Forward Bend (Paschimottanasana)",
     "description": "A seated pose that stretches the back and hamstrings, promoting relaxation.",
     "benefits": [
       "Stretches the spine and hamstrings",
@@ -245,11 +234,10 @@
       "Keep your spine long, avoid rounding your back.",
       "Hold for 1–3 minutes, breathing deeply."
     ],
-    "audioUrl": ""
   },
   {
     "id": 13,
-    "title": "Loving-Kindness Meditation (Metta)",
+    "title": "13. Loving-Kindness Meditation (Metta)",
     "description": "A meditation practice to cultivate compassion and love for oneself and others.",
     "benefits": [
       "Promotes emotional well-being",
@@ -265,11 +253,10 @@
       "Extend these wishes to loved ones, acquaintances, and all beings.",
       "Practice for 10–15 minutes, focusing on feelings of warmth."
     ],
-    "audioUrl": "https://alickshoff.github.io/yoga-api/metta_meditation.mp3"
   },
   {
     "id": 14,
-    "title": "Bridge Pose (Setu Bandhasana)",
+    "title": "14. Bridge Pose (Setu Bandhasana)",
     "description": "A gentle backbend that strengthens the glutes and opens the chest.",
     "benefits": [
       "Strengthens the glutes and core",
@@ -285,11 +272,10 @@
       "Press into your feet, keep your knees aligned.",
       "Hold for 30–60 seconds, then lower slowly."
     ],
-    "audioUrl": ""
   },
   {
     "id": 15,
-    "title": "Cat-Cow Pose (Marjaryasana-Bitilasana)",
+    "title": "15. Cat-Cow Pose (Marjaryasana-Bitilasana)",
     "description": "A gentle flow between two poses to warm up the spine and improve flexibility.",
     "benefits": [
       "Increases spinal mobility",
@@ -304,11 +290,10 @@
       "Exhale, round your spine, tucking your chin and tailbone (Cat).",
       "Flow between poses for 5–10 breaths."
     ],
-    "audioUrl": ""
   },
   {
     "id": 16,
-    "title": "Breath of Fire (Kapalabhati)",
+    "title": "16. Breath of Fire (Kapalabhati)",
     "description": "A dynamic breathing technique to energize the body and clear the mind.",
     "benefits": [
       "Boosts energy levels",
@@ -324,11 +309,10 @@
       "Let inhalations happen passively between exhales.",
       "Perform for 30 seconds, then rest and repeat 2–3 times."
     ],
-    "audioUrl": ""
   },
   {
     "id": 17,
-    "title": "Warrior I Pose (Virabhadrasana I)",
+    "title": "17. Warrior I Pose (Virabhadrasana I)",
     "description": "A powerful standing pose that builds strength and opens the hips.",
     "benefits": [
       "Strengthens legs and core",
@@ -344,11 +328,10 @@
       "Square your hips toward the front, gaze forward.",
       "Hold for 30–60 seconds, then switch sides."
     ],
-    "audioUrl": ""
   },
   {
     "id": 18,
-    "title": "Gratitude Meditation",
+    "title": "18. Gratitude Meditation",
     "description": "A meditation practice to cultivate appreciation and positivity.",
     "benefits": [
       "Increases positive emotions",
@@ -364,11 +347,10 @@
       "Feel the warmth and positivity of each thought.",
       "Practice for 5–10 minutes."
     ],
-    "audioUrl": "https://alickshoff.github.io/yoga-api/gratitude_meditation.mp3"
   },
   {
     "id": 19,
-    "title": "Half Moon Pose (Ardha Chandrasana)",
+    "title": "19. Half Moon Pose (Ardha Chandrasana)",
     "description": "A balancing pose that strengthens the legs and core while improving coordination.",
     "benefits": [
       "Strengthens legs and core",
@@ -384,11 +366,10 @@
       "Balance on your right leg and hand, gaze upward or forward.",
       "Hold for 30–60 seconds, then switch sides."
     ],
-    "audioUrl": ""
   },
   {
     "id": 20,
-    "title": "Thread the Needle (Parsva Balasana)",
+    "title": "20. Thread the Needle (Parsva Balasana)",
     "description": "A gentle twist that releases tension in the upper back and shoulders.",
     "benefits": [
       "Relieves shoulder and neck tension",
@@ -403,11 +384,10 @@
       "Lower your chest toward the ground, keeping hips high.",
       "Hold for 30–60 seconds, breathing deeply, then switch sides."
     ],
-    "audioUrl": ""
   },
   {
     "id": 21,
-    "title": "Lion’s Breath (Simhasana Pranayama)",
+    "title": "21. Lion’s Breath (Simhasana Pranayama)",
     "description": "An energizing breathing practice that releases tension and boosts confidence.",
     "benefits": [
       "Relieves facial tension",
@@ -423,11 +403,10 @@
       "Open your eyes wide and gaze upward.",
       "Repeat 5–10 times, resting between rounds."
     ],
-    "audioUrl": ""
   },
   {
     "id": 22,
-    "title": "Reclining Bound Angle Pose (Supta Baddha Konasana)",
+    "title": "22. Reclining Bound Angle Pose (Supta Baddha Konasana)",
     "description": "A restorative pose that opens the hips and promotes relaxation.",
     "benefits": [
       "Opens hips and groin",
@@ -442,11 +421,10 @@
       "Use props under your knees for support if needed.",
       "Breathe deeply and hold for 3–5 minutes."
     ],
-    "audioUrl": ""
   },
   {
     "id": 23,
-    "title": "Walking Meditation",
+    "title": "23. Walking Meditation",
     "description": "A mindful walking practice to connect with the present moment.",
     "benefits": [
       "Improves mindfulness",
@@ -462,11 +440,10 @@
       "Coordinate your breath with your steps if desired.",
       "Practice for 10–15 minutes."
     ],
-    "audioUrl": "https://alickshoff.github.io/yoga-api/walking_meditation.mp3"
   },
   {
     "id": 24,
-    "title": "Eagle Pose (Garudasana)",
+    "title": "24. Eagle Pose (Garudasana)",
     "description": "A balancing pose that improves focus and strengthens the legs.",
     "benefits": [
       "Improves balance and coordination",
@@ -481,11 +458,10 @@
       "Cross your left arm over your right, bending elbows to hook hands.",
       "Balance and hold for 30–60 seconds, then switch sides."
     ],
-    "audioUrl": ""
   },
   {
     "id": 25,
-    "title": "Reclining Twist (Supta Matsyendrasana)",
+    "title": "25. Reclining Twist (Supta Matsyendrasana)",
     "description": "A gentle spinal twist that releases tension and promotes relaxation.",
     "benefits": [
       "Relieves spinal tension",
@@ -500,6 +476,5 @@
       "Keep your shoulders flat on the ground, gaze to the right.",
       "Hold for 1–2 minutes, then switch sides."
     ],
-    "audioUrl": ""
   }
 ]
