@@ -1,530 +1,530 @@
 [
   {
     "id": 1,
-    "title": "1. Mountain Pose (Tadasana)",
-    "description": "Mountain Pose is the foundation of all standing poses. It improves posture, strengthens the legs, and helps with focus.",
+    "title": "Поза горы (Тадасана)",
+    "description": "Поза горы — основа всех стоячих поз. Улучшает осанку, укрепляет ноги и помогает сосредоточиться.",
     "benefits": [
-      "Improves posture",
-      "Strengthens leg and foot muscles",
-      "Develops balance",
-      "Reduces physical tension"
+      "Улучшает осанку",
+      "Укрепляет мышцы ног и стоп",
+      "Развивает равновесие",
+      "Снижает физическое напряжение"
     ],
     "image": "https://images.pexels.com/photos/708705/pexels-photo-708705.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "photographer": "Andrea Piacquadio",
     "photographer_url": "https://www.pexels.com/@andrea-piacquadio",
     "instructions": [
-      "Stand straight with feet together or slightly apart.",
-      "Distribute weight evenly across both feet.",
-      "Engage your knees, draw in your thighs, and contract your glutes.",
-      "Lower your shoulders, let your arms hang naturally with palms facing thighs.",
-      "Lengthen your neck, gaze forward.",
-      "Breathe calmly for 30–60 seconds."
+      "Встаньте прямо, стопы вместе или слегка расставлены.",
+      "Равномерно распределите вес по обеим стопам.",
+      "Напрягите колени, подтяните бедра, сократите ягодицы.",
+      "Опустите плечи, руки свободно свисают, ладони обращены к бедрам.",
+      "Вытяните шею, смотрите вперед.",
+      "Дышите спокойно 30–60 секунд."
     ]
   },
   {
     "id": 2,
-    "title": "2. Mindfulness Meditation",
-    "description": "A practice of being present in the moment without judging thoughts or feelings. Ideal for reducing anxiety.",
+    "title": "Медитация осознанности",
+    "description": "Практика пребывания в настоящем моменте без осуждения мыслей или чувств. Идеально для снижения тревожности.",
     "benefits": [
-      "Reduces stress levels",
-      "Improves concentration",
-      "Enhances emotional resilience",
-      "Promotes better sleep"
+      "Снижает уровень стресса",
+      "Улучшает концентрацию",
+      "Повышает эмоциональную устойчивость",
+      "Способствует лучшему сну"
     ],
     "image": "https://images.pexels.com/photos/2204196/pexels-photo-2204196.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "photographer": "Lina Trochez",
     "photographer_url": "https://www.pexels.com/@lina-trochez",
     "instructions": [
-      "Sit comfortably on a chair, cushion, or bench.",
-      "Keep your back straight but not tense.",
-      "Close your eyes or lower your gaze.",
-      "Focus on your breath: inhale and exhale.",
-      "When thoughts distract you, gently return to your breath.",
-      "Practice for 5–10 minutes daily."
+      "Сядьте удобно на стул, подушку или скамью.",
+      "Держите спину прямо, но не напрягайте.",
+      "Закройте глаза или опустите взгляд.",
+      "Сосредоточьтесь на дыхании: вдох и выдох.",
+      "Если мысли отвлекают, мягко возвращайтесь к дыханию.",
+      "Практикуйте 5–10 минут ежедневно."
     ]
   },
   {
     "id": 3,
-    "title": "3. Downward-Facing Dog (Adho Mukha Svanasana)",
-    "description": "One of the most common poses, it stretches the entire body, particularly the back, legs, and shoulders.",
+    "title": "Поза собаки мордой вниз (Адхо Мукха Шванасана)",
+    "description": "Одна из самых распространенных поз, растягивает все тело, особенно спину, ноги и плечи.",
     "benefits": [
-      "Stretches the spine and hamstrings",
-      "Strengthens arms and shoulders",
-      "Relieves fatigue",
-      "Stimulates blood circulation"
+      "Растягивает позвоночник и подколенные сухожилия",
+      "Укрепляет руки и плечи",
+      "Снимает усталость",
+      "Стимулирует кровообращение"
     ],
     "image": "https://images.pexels.com/photos/3823113/pexels-photo-3823113.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "photographer": "Ketut Subiyanto",
     "photographer_url": "https://www.pexels.com/@ketut-subiyanto",
     "instructions": [
-      "Start in a tabletop position on all fours.",
-      "Place your hands slightly ahead of your shoulders, fingers spread wide.",
-      "Lift your hips up, straightening your legs (knees can be slightly bent).",
-      "Form an inverted triangle with your body from shoulders to heels.",
-      "Keep your head between your arms, neck relaxed.",
-      "Breathe deeply for 30–60 seconds."
+      "Начните в позе на четвереньках.",
+      "Расположите руки чуть впереди плеч, пальцы широко расставлены.",
+      "Поднимите бедра вверх, выпрямляя ноги (колени могут быть слегка согнуты).",
+      "Сформируйте перевернутый треугольник телом от плеч до пяток.",
+      "Держите голову между руками, шея расслаблена.",
+      "Дышите глубоко 30–60 секунд."
     ]
   },
   {
     "id": 4,
-    "title": "4. Pranayama Breathing: Nadi Shodhana",
-    "description": "Alternate nostril breathing calms the mind and balances energy flows.",
+    "title": "Пранаяма: Нади Шодхана",
+    "description": "Дыхание через ноздри попеременно успокаивает ум и балансирует потоки энергии.",
     "benefits": [
-      "Calms the nervous system",
-      "Balances left and right brain hemispheres",
-      "Improves concentration",
-      "Prepares for meditation"
+      "Успокаивает нервную систему",
+      "Балансирует левое и правое полушария мозга",
+      "Улучшает концентрацию",
+      "Подготавливает к медитации"
     ],
     "image": "https://images.pexels.com/photos/7086194/pexels-photo-7086194.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "photographer": "cottonbro studio",
     "photographer_url": "https://www.pexels.com/@cottonbro",
     "instructions": [
-      "Sit upright with a straight spine.",
-      "Using your right hand, form a 'mudra gesture': thumb and ring finger free.",
-      "Close your right nostril with your thumb.",
-      "Inhale slowly through your left nostril.",
-      "Close your left nostril with your ring finger, open your right, and exhale.",
-      "Inhale through the right, close it, exhale through the left—this is one cycle.",
-      "Repeat for 5–10 cycles."
+      "Сядьте прямо с ровной спиной.",
+      "Используя правую руку, сформируйте 'мудру': большой и безымянный пальцы свободны.",
+      "Закройте правую ноздрю большим пальцем.",
+      "Медленно вдохните через левую ноздрю.",
+      "Закройте левую ноздрю безымянным пальцем, откройте правую и выдохните.",
+      "Вдохните через правую, закройте ее, выдохните через левую — это один цикл.",
+      "Повторите 5–10 циклов."
     ]
   },
   {
     "id": 5,
-    "title": "5. Child’s Pose (Balasana)",
-    "description": "A relaxing pose for rest and recovery, excellent for relieving back tension.",
+    "title": "Поза ребенка (Баласана)",
+    "description": "Расслабляющая поза для отдыха и восстановления, отлично снимает напряжение в спине.",
     "benefits": [
-      "Calms the nervous system",
-      "Relieves neck and back tension",
-      "Helps with headaches",
-      "Ideal before bedtime"
+      "Успокаивает нервную систему",
+      "Снимает напряжение в шее и спине",
+      "Помогает при головных болях",
+      "Идеально перед сном"
     ],
     "image": "https://images.pexels.com/photos/7086200/pexels-photo-7086200.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "photographer": "cottonbro studio",
     "photographer_url": "https://www.pexels.com/@cottonbro",
     "instructions": [
-      "Kneel with your hips resting on your heels.",
-      "Lean forward, placing your chest between your thighs.",
-      "Extend your arms forward or rest them alongside your body, palms up.",
-      "Rest your forehead on the floor.",
-      "Breathe calmly for 1–3 minutes."
+      "Сядьте на колени, бедра на пятках.",
+      "Наклонитесь вперед, положив грудь между бедрами.",
+      "Вытяните руки вперед или положите их вдоль тела, ладонями вверх.",
+      "Опустите лоб на пол.",
+      "Дышите спокойно 1–3 минуты."
     ]
   },
   {
     "id": 6,
-    "title": "6. Body Scan Meditation",
-    "description": "A meditation practice where you sequentially focus on each part of the body, from toes to head.",
+    "title": "Медитация сканирования тела",
+    "description": "Медитативная практика, при которой вы последовательно сосредотачиваетесь на каждой части тела от пальцев ног до макушки.",
     "benefits": [
-      "Deep relaxation",
-      "Reduces muscle tension",
-      "Helps with insomnia",
-      "Develops body awareness"
+      "Глубокое расслабление",
+      "Снижает мышечное напряжение",
+      "Помогает при бессоннице",
+      "Развивает осознание тела"
     ],
     "image": "https://images.pexels.com/photos/7086203/pexels-photo-7086203.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "photographer": "cottonbro studio",
     "photographer_url": "https://www.pexels.com/@cottonbro",
     "instructions": [
-      "Lie on your back with arms at your sides, palms up.",
-      "Close your eyes and take a few deep breaths.",
-      "Focus on the tips of your toes, feeling them.",
-      "Slowly move upward: feet, ankles, calves, knees, thighs...",
-      "Continue to the crown of your head.",
-      "Stay in this state for 5–10 minutes.",
-      "Slowly return to awareness."
+      "Лягте на спину, руки вдоль тела, ладони вверх.",
+      "Закройте глаза и сделайте несколько глубоких вдохов.",
+      "Сосредоточьтесь на кончиках пальцев ног, ощущая их.",
+      "Медленно двигайтесь вверх: стопы, лодыжки, икры, колени, бедра...",
+      "Продолжайте до макушки головы.",
+      "Оставайтесь в этом состоянии 5–10 минут.",
+      "Медленно возвращайтесь к осознанию."
     ]
   },
   {
     "id": 7,
-    "title": "7. Warrior II Pose (Virabhadrasana II)",
-    "description": "A classic power pose that builds endurance and concentration.",
+    "title": "Поза воина II (Вирабхадрасана II)",
+    "description": "Классическая силовая поза, развивающая выносливость и концентрацию.",
     "benefits": [
-      "Strengthens legs and arms",
-      "Opens the chest and hips",
-      "Develops balance",
-      "Enhances willpower"
+      "Укрепляет ноги и руки",
+      "Раскрывает грудь и бедра",
+      "Развивает равновесие",
+      "Усиливает силу воли"
     ],
     "image": "https://images.pexels.com/photos/3823117/pexels-photo-3823117.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "photographer": "Ketut Subiyanto",
     "photographer_url": "https://www.pexels.com/@ketut-subiyanto",
     "instructions": [
-      "Stand straight, take a wide step back.",
-      "Bend your front knee to a 90-degree angle, keep the back leg straight.",
-      "Extend your arms parallel to the floor.",
-      "Gaze forward.",
-      "Hold the pose for 30–60 seconds on each side."
+      "Встаньте прямо, сделайте широкий шаг назад.",
+      "Согните переднее колено под углом 90 градусов, задняя нога прямая.",
+      "Вытяните руки параллельно полу.",
+      "Смотрите вперед.",
+      "Держите позу 30–60 секунд с каждой стороны."
     ]
   },
   {
     "id": 8,
-    "title": "8. Tree Pose (Vrksasana)",
-    "description": "A balancing pose that develops stability and focus.",
+    "title": "Поза дерева (Врикшасана)",
+    "description": "Балансовая поза, развивающая стабильность и концентрацию.",
     "benefits": [
-      "Strengthens leg muscles",
-      "Improves balance",
-      "Relieves nervous tension",
-      "Sharpens mental focus"
+      "Укрепляет мышцы ног",
+      "Улучшает равновесие",
+      "Снимает нервное напряжение",
+      "Повышает ментальную концентрацию"
     ],
     "image": "https://images.pexels.com/photos/3823120/pexels-photo-3823120.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "photographer": "Ketut Subiyanto",
     "photographer_url": "https://www.pexels.com/@ketut-subiyanto",
     "instructions": [
-      "Stand straight with feet together.",
-      "Place the sole of your right foot on the inner thigh of your left leg.",
-      "Press your palms together at chest level or raise your arms overhead.",
-      "Maintain balance and steady breathing.",
-      "Hold for 30–60 seconds, then switch legs."
+      "Встаньте прямо, стопы вместе.",
+      "Поставьте подошву правой стопы на внутреннюю часть левого бедра.",
+      "Сложите ладони на уровне груди или поднимите руки над головой.",
+      "Сохраняйте равновесие и ровное дыхание.",
+      "Держите 30–60 секунд, затем смените ногу."
     ]
   },
   {
     "id": 9,
-    "title": "9. Corpse Pose (Savasana)",
-    "description": "A final relaxation pose to restore energy.",
+    "title": "Поза трупа (Шавасана)",
+    "description": "Финальная расслабляющая поза для восстановления энергии.",
     "benefits": [
-      "Deep physical relaxation",
-      "Reduces stress",
-      "Normalizes breathing",
-      "Decreases fatigue"
+      "Глубокое физическое расслабление",
+      "Снижает стресс",
+      "Нормализует дыхание",
+      "Уменьшает усталость"
     ],
     "image": "https://images.pexels.com/photos/7086205/pexels-photo-7086205.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "photographer": "cottonbro studio",
     "photographer_url": "https://www.pexels.com/@cottonbro",
     "instructions": [
-      "Lie on your back with arms and legs relaxed.",
-      "Close your eyes.",
-      "Focus on your breath.",
-      "Fully release tension.",
-      "Remain for 5–10 minutes."
+      "Лягте на спину, руки и ноги расслаблены.",
+      "Закройте глаза.",
+      "Сосредоточьтесь на дыхании.",
+      "Полностью отпустите напряжение.",
+      "Оставайтесь 5–10 минут."
     ]
   },
   {
     "id": 10,
-    "title": "10. Cobra Pose (Bhujangasana)",
-    "description": "A gentle backbend that strengthens the spine and opens the chest.",
+    "title": "Поза кобры (Бхуджангасана)",
+    "description": "Мягкий прогиб назад, укрепляющий позвоночник и раскрывающий грудную клетку.",
     "benefits": [
-      "Strengthens back muscles",
-      "Improves spinal flexibility",
-      "Stimulates abdominal organs",
-      "Boosts energy levels"
+      "Укрепляет мышцы спины",
+      "Улучшает гибкость позвоночника",
+      "Стимулирует органы брюшной полости",
+      "Повышает уровень энергии"
     ],
     "image": "https://images.pexels.com/photos/3823122/pexels-photo-3823122.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "photographer": "Ketut Subiyanto",
     "photographer_url": "https://www.pexels.com/@ketut-subiyanto",
     "instructions": [
-      "Lie face down with palms under your shoulders.",
-      "On an inhale, lift your chest, straightening your arms.",
-      "Draw your shoulders back and down.",
-      "Keep your hips and legs pressed into the floor.",
-      "Breathe calmly for 15–30 seconds."
+      "Лягте лицом вниз, ладони под плечами.",
+      "На вдохе поднимите грудь, выпрямляя руки.",
+      "Отведите плечи назад и вниз.",
+      "Держите бедра и ноги прижатыми к полу.",
+      "Дышите спокойно 15–30 секунд."
     ]
   },
   {
     "id": 11,
-    "title": "11. Triangle Pose (Trikonasana)",
-    "description": "A standing pose that stretches the sides of the body and strengthens the core.",
+    "title": "Поза треугольника (Триконасана)",
+    "description": "Стоячая поза, растягивающая бока тела и укрепляющая корпус.",
     "benefits": [
-      "Stretches the hips and spine",
-      "Strengthens the core and legs",
-      "Improves flexibility",
-      "Enhances digestion"
+      "Растягивает бедра и позвоночник",
+      "Укрепляет корпус и ноги",
+      "Улучшает гибкость",
+      "Способствует пищеварению"
     ],
     "image": "https://images.pexels.com/photos/3823124/pexels-photo-3823124.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "photographer": "Ketut Subiyanto",
     "photographer_url": "https://www.pexels.com/@ketut-subiyanto",
     "instructions": [
-      "Stand with feet wide apart, about 3–4 feet.",
-      "Turn your right foot out 90 degrees, left foot slightly in.",
-      "Extend your arms parallel to the floor.",
-      "Reach your right hand toward your right foot, resting it on your shin or the floor.",
-      "Extend your left arm upward, gaze toward your left hand.",
-      "Hold for 30–60 seconds, then switch sides."
+      "Встаньте, расставив ноги на 90–120 см.",
+      "Поверните правую стопу на 90 градусов, левую слегка внутрь.",
+      "Вытяните руки параллельно полу.",
+      "Наклонитесь вправо, положив правую руку на голень или пол.",
+      "Левую руку вытяните вверх, взгляд на левую руку.",
+      "Держите 30–60 секунд, затем смените сторону."
     ]
   },
   {
     "id": 12,
-    "title": "12. Seated Forward Bend (Paschimottanasana)",
-    "description": "A seated pose that stretches the back and hamstrings, promoting relaxation.",
+    "title": "Наклон вперед сидя (Пашчимоттанасана)",
+    "description": "Сидячая поза, растягивающая спину и подколенные сухожилия, способствующая расслаблению.",
     "benefits": [
-      "Stretches the spine and hamstrings",
-      "Calms the mind",
-      "Improves digestion",
-      "Relieves menstrual discomfort"
+      "Растягивает позвоночник и подколенные сухожилия",
+      "Успокаивает ум",
+      "Улучшает пищеварение",
+      "Снимает дискомфорт при менструации"
     ],
     "image": "https://images.pexels.com/photos/7086207/pexels-photo-7086207.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "photographer": "cottonbro studio",
     "photographer_url": "https://www.pexels.com/@cottonbro",
     "instructions": [
-      "Sit with legs extended straight in front of you.",
-      "Inhale, lengthen your spine, and raise your arms.",
-      "Exhale, hinge at your hips, and reach for your feet or shins.",
-      "Keep your spine long, avoid rounding your back.",
-      "Hold for 1–3 minutes, breathing deeply."
+      "Сядьте, вытянув ноги прямо перед собой.",
+      "На вдохе вытяните позвоночник и поднимите руки.",
+      "На выдохе наклонитесь вперед от бедер, дотягиваясь до стоп или голеней.",
+      "Держите позвоночник прямым, избегайте округления спины.",
+      "Держите 1–3 минуты, глубоко дыша."
     ]
   },
   {
     "id": 13,
-    "title": "13. Loving-Kindness Meditation (Metta)",
-    "description": "A meditation practice to cultivate compassion and love for oneself and others.",
+    "title": "Медитация любящей доброты (Метта)",
+    "description": "Медитативная практика для развития сострадания и любви к себе и другим.",
     "benefits": [
-      "Promotes emotional well-being",
-      "Reduces negative emotions",
-      "Enhances empathy",
-      "Improves relationships"
+      "Способствует эмоциональному благополучию",
+      "Снижает негативные эмоции",
+      "Усиливает эмпатию",
+      "Улучшает отношения"
     ],
     "image": "https://images.pexels.com/photos/7086209/pexels-photo-7086209.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "photographer": "cottonbro studio",
     "photographer_url": "https://www.pexels.com/@cottonbro",
     "instructions": [
-      "Sit comfortably with a straight spine.",
-      "Close your eyes and take a few deep breaths.",
-      "Repeat phrases like 'May I be happy, may I be healthy.'",
-      "Extend these wishes to loved ones, acquaintances, and all beings.",
-      "Practice for 10–15 minutes, focusing on feelings of warmth."
+      "Сядьте удобно с прямой спиной.",
+      "Закройте глаза и сделайте несколько глубоких вдохов.",
+      "Повторяйте фразы вроде: «Пусть я буду счастлив, пусть я буду здоров».",
+      "Распространите эти пожелания на близких, знакомых и всех существ.",
+      "Практикуйте 10–15 минут, сосредотачиваясь на чувстве тепла."
     ]
   },
   {
     "id": 14,
-    "title": "14. Bridge Pose (Setu Bandhasana)",
-    "description": "A gentle backbend that strengthens the glutes and opens the chest.",
+    "title": "Поза моста (Сету Бандхасана)",
+    "description": "Мягкий прогиб назад, укрепляющий ягодицы и раскрывающий грудную клетку.",
     "benefits": [
-      "Strengthens the glutes and core",
-      "Improves spinal flexibility",
-      "Relieves lower back tension",
-      "Stimulates thyroid function"
+      "Укрепляет ягодицы и корпус",
+      "Улучшает гибкость позвоночника",
+      "Снимает напряжение в нижней части спины",
+      "Стимулирует функцию щитовидной железы"
     ],
     "image": "https://images.pexels.com/photos/7086211/pexels-photo-7086211.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "photographer": "cottonbro studio",
     "photographer_url": "https://www.pexels.com/@cottonbro",
     "instructions": [
-      "Lie on your back with knees bent, feet hip-width apart.",
-      "Place your arms alongside your body, palms down.",
-      "Inhale, lift your hips toward the ceiling.",
-      "Press into your feet, keep your knees aligned.",
-      "Hold for 30–60 seconds, then lower slowly."
+      "Лягте на спину, колени согнуты, стопы на ширине бедер.",
+      "Положите руки вдоль тела, ладони вниз.",
+      "На вдохе поднимите бедра к потолку.",
+      "Давите на стопы, держите колени на одной линии.",
+      "Держите 30–60 секунд, затем медленно опуститесь."
     ]
   },
   {
     "id": 15,
-    "title": "15. Cat-Cow Pose (Marjaryasana-Bitilasana)",
-    "description": "A gentle flow between two poses to warm up the spine and improve flexibility.",
+    "title": "Поза кошки-коровы (Марджаряасана-Битиласана)",
+    "description": "Плавное чередование двух поз для разогрева позвоночника и улучшения гибкости.",
     "benefits": [
-      "Increases spinal mobility",
-      "Relieves back and neck tension",
-      "Improves posture",
-      "Calms the mind"
+      "Увеличивает подвижность позвоночника",
+      "Снимает напряжение в спине и шее",
+      "Улучшает осанку",
+      "Успокаивает ум"
     ],
     "image": "https://images.pexels.com/photos/7086213/pexels-photo-7086213.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "photographer": "cottonbro studio",
     "photographer_url": "https://www.pexels.com/@cottonbro",
     "instructions": [
-      "Start on all fours, hands under shoulders, knees under hips.",
-      "Inhale, arch your back, lifting your chest and tailbone (Cow).",
-      "Exhale, round your spine, tucking your chin and tailbone (Cat).",
-      "Flow between poses for 5–10 breaths."
+      "Начните на четвереньках, руки под плечами, колени под бедрами.",
+      "На вдохе прогните спину, поднимая грудь и копчик (корова).",
+      "На выдохе округлите позвоночник, подтянув подбородок и копчик (кошка).",
+      "Чередуйте позы в течение 5–10 дыханий."
     ]
   },
   {
     "id": 16,
-    "title": "16. Breath of Fire (Kapalabhati)",
-    "description": "A dynamic breathing technique to energize the body and clear the mind.",
+    "title": "Дыхание огня (Капалабхати)",
+    "description": "Динамическая дыхательная техника для поднятия энергии и очищения ума.",
     "benefits": [
-      "Boosts energy levels",
-      "Improves respiratory health",
-      "Enhances mental clarity",
-      "Supports detoxification"
+      "Повышает уровень энергии",
+      "Улучшает здоровье дыхательной системы",
+      "Усиливает ментальную ясность",
+      "Способствует детоксикации"
     ],
     "image": "https://images.pexels.com/photos/7086215/pexels-photo-7086215.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "photographer": "cottonbro studio",
     "photographer_url": "https://www.pexels.com/@cottonbro",
     "instructions": [
-      "Sit upright with a straight spine.",
-      "Take a few deep breaths to prepare.",
-      "Exhale sharply through your nose, contracting your abdomen.",
-      "Let inhalations happen passively between exhales.",
-      "Perform for 30 seconds, then rest and repeat 2–3 times."
+      "Сядьте прямо с ровной спиной.",
+      "Сделайте несколько глубоких вдохов для подготовки.",
+      "Резко выдохните через нос, сокращая живот.",
+      "Позвольте вдохам происходить пассивно между выдохами.",
+      "Выполняйте 30 секунд, затем отдохните и повторите 2–3 раза."
     ]
   },
   {
     "id": 17,
-    "title": "17. Warrior I Pose (Virabhadrasana I)",
-    "description": "A powerful standing pose that builds strength and opens the hips.",
+    "title": "Поза воина I (Вирабхадрасана I)",
+    "description": "Мощная стоячая поза, укрепляющая тело и раскрывающая бедра.",
     "benefits": [
-      "Strengthens legs and core",
-      "Opens hips and chest",
-      "Improves focus",
-      "Enhances stamina"
+      "Укрепляет ноги и корпус",
+      "Раскрывает бедра и грудь",
+      "Улучшает концентрацию",
+      "Повышает выносливость"
     ],
     "image": "https://images.pexels.com/photos/3823126/pexels-photo-3823126.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "photographer": "Ketut Subiyanto",
     "photographer_url": "https://www.pexels.com/@ketut-subiyanto",
     "instructions": [
-      "Stand with feet wide apart, turn your right foot out 90 degrees.",
-      "Bend your right knee to a 90-degree angle, keep left leg straight.",
-      "Raise your arms overhead, palms facing each other.",
-      "Square your hips toward the front, gaze forward.",
-      "Hold for 30–60 seconds, then switch sides."
+      "Встаньте, расставив ноги широко, поверните правую стопу на 90 градусов.",
+      "Согните правое колено под углом 90 градусов, левая нога прямая.",
+      "Поднимите руки над головой, ладони друг к другу.",
+      "Направьте бедра вперед, взгляд вперед.",
+      "Держите 30–60 секунд, затем смените сторону."
     ]
   },
   {
     "id": 18,
-    "title": "18. Gratitude Meditation",
-    "description": "A meditation practice to cultivate appreciation and positivity.",
+    "title": "Медитация благодарности",
+    "description": "Медитативная практика для развития признательности и позитивного настроя.",
     "benefits": [
-      "Increases positive emotions",
-      "Reduces stress",
-      "Improves mental health",
-      "Enhances life satisfaction"
+      "Увеличивает позитивные эмоции",
+      "Снижает стресс",
+      "Улучшает психическое здоровье",
+      "Повышает удовлетворенность жизнью"
     ],
     "image": "https://images.pexels.com/photos/7086217/pexels-photo-7086217.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "photographer": "cottonbro studio",
     "photographer_url": "https://www.pexels.com/@cottonbro",
     "instructions": [
-      "Sit or lie down in a comfortable position.",
-      "Close your eyes and take a few deep breaths.",
-      "Reflect on things you’re grateful for, big or small.",
-      "Feel the warmth and positivity of each thought.",
-      "Practice for 5–10 minutes."
+      "Сядьте или лягте в удобной позе.",
+      "Закройте глаза и сделайте несколько глубоких вдохов.",
+      "Подумайте о вещах, за которые вы благодарны, больших или малых.",
+      "Ощутите тепло и позитив от каждой мысли.",
+      "Практикуйте 5–10 минут."
     ]
   },
   {
     "id": 19,
-    "title": "19. Half Moon Pose (Ardha Chandrasana)",
-    "description": "A balancing pose that strengthens the legs and core while improving coordination.",
+    "title": "Поза полумесяца (Ардха Чандрасана)",
+    "description": "Балансовая поза, укрепляющая ноги и корпус, улучшающая координацию.",
     "benefits": [
-      "Strengthens legs and core",
-      "Improves balance and coordination",
-      "Stretches hips and groin",
-      "Enhances focus"
+      "Укрепляет ноги и корпус",
+      "Улучшает равновесие и координацию",
+      "Растягивает бедра и пах",
+      "Усиливает концентрацию"
     ],
     "image": "https://images.pexels.com/photos/3823128/pexels-photo-3823128.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "photographer": "Ketut Subiyanto",
     "photographer_url": "https://www.pexels.com/@ketut-subiyanto",
     "instructions": [
-      "Start in Triangle Pose with your right hand on the floor or a block.",
-      "Lift your left leg parallel to the floor, keeping it straight.",
-      "Extend your left arm upward, open your chest.",
-      "Balance on your right leg and hand, gaze upward or forward.",
-      "Hold for 30–60 seconds, then switch sides."
+      "Начните в позе треугольника, правая рука на полу или на блоке.",
+      "Поднимите левую ногу параллельно полу, держите ее прямой.",
+      "Вытяните левую руку вверх, раскройте грудь.",
+      "Балансируйте на правой ноге и руке, взгляд вверх или вперед.",
+      "Держите 30–60 секунд, затем смените сторону."
     ]
   },
   {
     "id": 20,
-    "title": "20. Thread the Needle (Parsva Balasana)",
-    "description": "A gentle twist that releases tension in the upper back and shoulders.",
+    "title": "Поза нитки в иголке (Парсва Баласана)",
+    "description": "Мягкий скрут, снимающий напряжение в верхней части спины и плеч.",
     "benefits": [
-      "Relieves shoulder and neck tension",
-      "Improves spinal mobility",
-      "Calms the nervous system",
-      "Stretches the upper back"
+      "Снимает напряжение в плечах и шее",
+      "Улучшает подвижность позвоночника",
+      "Успокаивает нервную систему",
+      "Растягивает верхнюю часть спины"
     ],
     "image": "https://images.pexels.com/photos/7086219/pexels-photo-7086219.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "photographer": "cottonbro studio",
     "photographer_url": "https://www.pexels.com/@cottonbro",
     "instructions": [
-      "Start on all fours, hands under shoulders, knees under hips.",
-      "Thread your right arm under your body, resting your shoulder on the floor.",
-      "Lower your chest toward the ground, keeping hips high.",
-      "Hold for 30–60 seconds, breathing deeply, then switch sides."
+      "Начните на четвереньках, руки под плечами, колени под бедрами.",
+      "Проденьте правую руку под тело, опуская плечо на пол.",
+      "Опустите грудь к полу, держите бедра высоко.",
+      "Держите 30–60 секунд, глубоко дыша, затем смените сторону."
     ]
   },
   {
     "id": 21,
-    "title": "21. Lion’s Breath (Simhasana Pranayama)",
-    "description": "An energizing breathing practice that releases tension and boosts confidence.",
+    "title": "Дыхание льва (Симхасана Пранаяма)",
+    "description": "Энергичная дыхательная практика, снимающая напряжение и повышающая уверенность.",
     "benefits": [
-      "Relieves facial tension",
-      "Boosts energy and confidence",
-      "Improves vocal strength",
-      "Reduces stress"
+      "Снимает напряжение лица",
+      "Повышает энергию и уверенность",
+      "Укрепляет голосовые связки",
+      "Снижает стресс"
     ],
     "image": "https://images.pexels.com/photos/7086221/pexels-photo-7086221.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "photographer": "cottonbro studio",
     "photographer_url": "https://www.pexels.com/@cottonbro",
     "instructions": [
-      "Sit in a comfortable position, such as kneeling or cross-legged.",
-      "Inhale deeply through your nose.",
-      "Exhale forcefully through your mouth, sticking out your tongue and roaring.",
-      "Open your eyes wide and gaze upward.",
-      "Repeat 5–10 times, resting between rounds."
+      "Сядьте в удобной позе, например, на коленях или со скрещенными ногами.",
+      "Глубоко вдохните через нос.",
+      "Резко выдохните через рот, высунув язык и издавая рычание.",
+      "Широко раскройте глаза и смотрите вверх.",
+      "Повторите 5–10 раз, отдыхая между подходами."
     ]
   },
   {
     "id": 22,
-    "title": "22. Reclining Bound Angle Pose (Supta Baddha Konasana)",
-    "description": "A restorative pose that opens the hips and promotes relaxation.",
+    "title": "Поза лежащего угла (Супта Баддха Конасана)",
+    "description": "Восстанавливающая поза, раскрывающая бедра и способствующая расслаблению.",
     "benefits": [
-      "Opens hips and groin",
-      "Relieves stress and anxiety",
-      "Improves circulation",
-      "Eases menstrual discomfort"
+      "Раскрывает бедра и пах",
+      "Снимает стресс и тревогу",
+      "Улучшает кровообращение",
+      "Облегчает менструальный дискомфорт"
     ],
     "image": "https://images.pexels.com/photos/7086223/pexels-photo-7086223.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "photographer": "cottonbro studio",
     "photographer_url": "https://www.pexels.com/@cottonbro",
     "instructions": [
-      "Lie on your back, bring the soles of your feet together, knees out to the sides.",
-      "Place your arms relaxed by your sides or on your abdomen.",
-      "Use props under your knees for support if needed.",
-      "Breathe deeply and hold for 3–5 minutes."
+      "Лягте на спину, соедините подошвы стоп, колени разведены в стороны.",
+      "Положите руки расслабленно вдоль тела или на живот.",
+      "При необходимости подложите опоры под колени.",
+      "Дышите глубоко и держите 3–5 минут."
     ]
   },
   {
     "id": 23,
-    "title": "23. Walking Meditation",
-    "description": "A mindful walking practice to connect with the present moment.",
+    "title": "Медитация при ходьбе",
+    "description": "Осознанная практика ходьбы для соединения с настоящим моментом.",
     "benefits": [
-      "Improves mindfulness",
-      "Reduces stress",
-      "Enhances physical awareness",
-      "Promotes mental clarity"
+      "Улучшает осознанность",
+      "Снижает стресс",
+      "Повышает физическое осознание",
+      "Способствует ментальной ясности"
     ],
     "image": "https://images.pexels.com/photos/7086225/pexels-photo-7086225.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "photographer": "cottonbro studio",
     "photographer_url": "https://www.pexels.com/@cottonbro",
     "instructions": [
-      "Find a quiet space where you can walk slowly.",
-      "Walk at a natural pace, focusing on each step.",
-      "Notice the sensation of your feet touching the ground.",
-      "Coordinate your breath with your steps if desired.",
-      "Practice for 10–15 minutes."
+      "Найдите тихое место, где можно медленно ходить.",
+      "Идите в естественном темпе, сосредотачиваясь на каждом шаге.",
+      "Замечайте ощущения стоп при соприкосновении с землей.",
+      "При желании синхронизируйте дыхание с шагами.",
+      "Практикуйте 10–15 минут."
     ]
   },
   {
     "id": 24,
-    "title": "24. Eagle Pose (Garudasana)",
-    "description": "A balancing pose that improves focus and strengthens the legs.",
+    "title": "Поза орла (Гарудасана)",
+    "description": "Балансовая поза, улучшающая концентрацию и укрепляющая ноги.",
     "benefits": [
-      "Improves balance and coordination",
-      "Strengthens legs and ankles",
-      "Stretches shoulders and upper back",
-      "Enhances focus"
+      "Улучшает равновесие и координацию",
+      "Укрепляет ноги и лодыжки",
+      "Растягивает плечи и верхнюю часть спины",
+      "Усиливает концентрацию"
     ],
     "image": "https://images.pexels.com/photos/3823130/pexels-photo-3823130.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "photographer": "Ketut Subiyanto",
     "photographer_url": "https://www.pexels.com/@ketut-subiyanto",
     "instructions": [
-      "Stand straight, bend your knees slightly.",
-      "Cross your right thigh over your left, hooking your right foot behind the left calf.",
-      "Cross your left arm over your right, bending elbows to hook hands.",
-      "Balance and hold for 30–60 seconds, then switch sides."
+      "Встаньте прямо, слегка согните колени.",
+      "Перекрестите правое бедро над левым, зацепив правую стопу за левую икру.",
+      "Перекрестите левую руку над правой, сгибая локти, чтобы соединить ладони.",
+      "Балансируйте и держите 30–60 секунд, затем смените сторону."
     ]
   },
   {
     "id": 25,
-    "title": "25. Reclining Twist (Supta Matsyendrasana)",
-    "description": "A gentle spinal twist that releases tension and promotes relaxation.",
+    "title": "Лежачий скрут (Супта Матсьендрасана)",
+    "description": "Мягкий скрут позвоночника, снимающий напряжение и способствующий расслаблению.",
     "benefits": [
-      "Relieves spinal tension",
-      "Improves digestion",
-      "Stretches hips and lower back",
-      "Calms the nervous system"
+      "Снимает напряжение позвоночника",
+      "Улучшает пищеварение",
+      "Растягивает бедра и нижнюю часть спины",
+      "Успокаивает нервную систему"
     ],
     "image": "https://images.pexels.com/photos/7086227/pexels-photo-7086227.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "photographer": "cottonbro studio",
     "photographer_url": "https://www.pexels.com/@cottonbro",
     "instructions": [
-      "Lie on your back with arms extended to the sides.",
-      "Bring your right knee to your chest, then guide it across your body to the left.",
-      "Keep your shoulders flat on the ground, gaze to the right.",
-      "Hold for 1–2 minutes, then switch sides."
+      "Лягте на спину, руки вытянуты в стороны.",
+      "Подтяните правое колено к груди, затем переведите его через тело влево.",
+      "Держите плечи прижатыми к полу, взгляд вправо.",
+      "Держите 1–2 минуты, затем смените сторону."
     ]
   }
 ]
