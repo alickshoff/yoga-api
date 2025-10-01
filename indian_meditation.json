@@ -1,26 +1,360 @@
 [
   {
-  "title": "Индийская медитация",
-  "paragraphs": [
-    "Индийская медитация — это обширный комплекс духовных практик, зародившийся в Древней Индии и описанный в ведических текстах, направленный на очищение ума и достижение духовной свободы. К индийским медитативным практикам относятся: Нада-йога, Пранаяма, Тантрическая практика, Тратака, Крийя-йога, Кундалини, Чакра-медитация, Трансцендентальная практика и пение мантр. Йога является одной из наиболее распространенных форм индийской медитации, сочетающей физические упражнения, дыхательные техники и медитацию для достижения гармонии тела и разума.",
-    "Основные индийские медитативные практики:",
-    "Нада-йога: Практика, фокусирующаяся на звуке для концентрации и внутреннего развития.",
-    "Пранаяма: Техники сосредоточения на дыхании, использующие дыхательную энергию для улучшения состояния ума и тела.",
-    "Тантрическая практика: Методы, включающие визуализацию и специальные дыхательные техники для достижения просветления.",
-    "Тратака: Целительная практика, основанная на концентрации на ярком визуальном образе, например, пламени свечи.",
-    "Крийя-йога: Практика, направленная на очищение кармы через работу с чакрами и дыхательные упражнения.",
-    "Кундалини: Медитация для освобождения духовного тела через ритуальную тряску.",
-    "Чакра-медитация: Тренировка, направленная на раскрытие и активацию семи энергетических центров тела (чакр).",
-    "Трансцендентальная практика: Тренинг, позволяющий подключаться к энергиям Высшего разума.",
-    "Пение мантр: Повторение древних заклинаний для достижения гармонии и духовного равновесия.",
-    "Цели индийской медитации:",
-    "Духовная свобода: Достижение внутреннего покоя и освобождения от ментальных ограничений.",
-    "Гармония тела и разума: Интеграция физических, ментальных и духовных аспектов для общего благополучия.",
-    "Самопознание: Познание истинной природы \"Я\" (Атмана), которое ведет к постижению Брахмана (Всеобщего Духа).",
-    "Ключевые особенности:",
-    "Древность: Индийская медитация имеет глубокие исторические корни, уходящие в ведические времена.",
-    "Интеграция: Часто сочетается с другими практиками йоги, такими как физические упражнения и дыхательные техники.",
-    "Множество техник: Существует широкий спектр методов, адаптированных под разные цели и уровни практики."
-  ]
-}
+    "title": "Индийская медитация",
+    "title_en": "Indian Meditation",
+    "paragraphs": [
+      {
+        "paragraph": "Индийская медитация — это обширный комплекс духовных практик, зародившийся в Древней Индии и описанный в ведических текстах, направленный на очищение ума и достижение духовной свободы. К индийским медитативным практикам относятся: Нада-йога, Пранаяма, Тантрическая практика, Тратака, Крийя-йога, Кундалини, Чакра-медитация, Трансцендентальная практика и пение мантр. Йога является одной из наиболее распространенных форм индийской медитации, сочетающей физические упражнения, дыхательные техники и медитацию для достижения гармонии тела и разума.",
+        "paragraph_en": "Indian meditation is an extensive set of spiritual practices that originated in Ancient India and were described in the Vedic texts. These practices are aimed at cleansing the mind and achieving spiritual freedom. Among them: Nada Yoga, Pranayama, Tantric practice, Trataka, Kriya Yoga, Kundalini, Chakra meditation, Transcendental practice, and mantra chanting. Yoga is one of the most widespread forms, combining physical exercises, breathing techniques, and meditation to achieve harmony of body and mind."
+      },
+      {
+        "paragraph": "Основные индийские медитативные практики: Нада-йога (концентрация на звуке), Пранаяма (дыхательные техники), Тантрическая практика, Тратака (взгляд на пламя свечи), Крийя-йога (очищение кармы), Кундалини (пробуждение духовной энергии), Чакра-медитация (активация энергетических центров), Трансцендентальная практика и пение мантр.",
+        "paragraph_en": "The main Indian meditative practices include: Nada Yoga (sound-based concentration), Pranayama (breathing techniques), Tantric practice, Trataka (gazing at a candle flame), Kriya Yoga (karmic cleansing), Kundalini (awakening of spiritual energy), Chakra meditation (activation of energy centers), Transcendental practice, and mantra chanting."
+      },
+      {
+        "paragraph": "Цели индийской медитации: духовная свобода (освобождение от ментальных ограничений и цикла перерождений), гармония тела и разума, самопознание — постижение истинной природы «Я» (Атмана), ведущее к осознанию единства с Брахманом (Всеобщим Духом).",
+        "paragraph_en": "The goals of Indian meditation include: spiritual freedom (liberation from mental limitations and the cycle of rebirth), harmony of body and mind, and self-realization — the understanding of the true nature of the 'Self' (Atman), leading to the realization of unity with Brahman (the Universal Spirit)."
+      },
+      {
+        "paragraph": "Ключевые особенности индийской медитации: древние корни, уходящие в ведические времена (более 3000 лет назад); глубокая интеграция с другими аспектами йоги — асанами, пранаямой и этическими принципами; а также разнообразие техник, адаптированных под разные темпераменты, цели и уровни подготовки практикующего.",
+        "paragraph_en": "Key features of Indian meditation include: ancient roots dating back to Vedic times (over 3,000 years ago); deep integration with other aspects of yoga — asanas, pranayama, and ethical principles; and a wide variety of techniques adapted to different temperaments, goals, and levels of practitioner readiness."
+      }
+    ]
+  },
+  {
+    "title": "Пранаяма",
+    "title_en": "Pranayama",
+    "paragraphs": [
+      {
+        "paragraph": "Пранаяма — это древняя йогическая практика управления дыханием, направленная на контроль жизненной энергии (праны). Она включает в себя различные техники дыхания, такие как Нади Шодхана (попеременное дыхание через ноздри), Капалабхати (очищающее дыхание) и Бхастрика (дыхание кузнечных мехов).",
+        "paragraph_en": "Pranayama is an ancient yogic practice of breath control aimed at managing life energy (prana). It includes various breathing techniques such as Nadi Shodhana (alternate nostril breathing), Kapalabhati (skull-shining breath), and Bhastrika (bellows breath)."
+      },
+      {
+        "paragraph": "Цель пранаямы — улучшение физического и ментального здоровья, повышение концентрации и подготовка ума к медитации. Практика помогает сбалансировать нервную систему и повысить уровень энергии.",
+        "paragraph_en": "The goal of pranayama is to enhance physical and mental health, improve concentration, and prepare the mind for meditation. The practice helps balance the nervous system and increase energy levels."
+      }
+    ]
+  },
+  {
+    "title": "Нада-йога",
+    "title_en": "Nada Yoga",
+    "paragraphs": [
+      {
+        "paragraph": "Нада-йога — это практика медитации, основанная на концентрации на звуке. Практикующий фокусируется на внутренних или внешних звуках, таких как звон колокольчиков или собственное дыхание, чтобы достичь состояния глубокого покоя.",
+        "paragraph_en": "Nada Yoga is a meditative practice based on focusing on sound. The practitioner concentrates on internal or external sounds, such as the ringing of bells or their own breathing, to achieve a state of deep calm."
+      },
+      {
+        "paragraph": "Эта техника помогает развить внутреннюю осознанность и увести внимание от внешних отвлечений, способствуя глубокому расслаблению и духовному пробуждению.",
+        "paragraph_en": "This technique helps develop inner awareness and shift attention away from external distractions, promoting deep relaxation and spiritual awakening."
+      }
+    ]
+  },
+  {
+    "title": "Тратака",
+    "title_en": "Trataka",
+    "paragraphs": [
+      {
+        "paragraph": "Тратака — это медитативная практика, заключающаяся в сосредоточенном созерцании объекта, обычно пламени свечи. Практикующий смотрит на объект без моргания, чтобы очистить ум и улучшить концентрацию.",
+        "paragraph_en": "Trataka is a meditative practice involving focused gazing at an object, typically a candle flame. The practitioner stares at the object without blinking to clear the mind and enhance concentration."
+      },
+      {
+        "paragraph": "Тратака также укрепляет глазные мышцы и улучшает зрение, а также способствует развитию интуиции и ясности мышления.",
+        "paragraph_en": "Trataka also strengthens eye muscles and improves vision, while fostering intuition and mental clarity."
+      }
+    ]
+  },
+  {
+    "title": "Крийя-йога",
+    "title_en": "Kriya Yoga",
+    "paragraphs": [
+      {
+        "paragraph": "Крийя-йога — это система духовных практик, направленных на очищение кармы и ускорение духовного роста. Она включает дыхательные техники, медитацию и мантры.",
+        "paragraph_en": "Kriya Yoga is a system of spiritual practices aimed at purifying karma and accelerating spiritual growth. It includes breathing techniques, meditation, and mantras."
+      },
+      {
+        "paragraph": "Эта практика помогает практикующему достичь внутреннего покоя и осознанности через очищение энергетических каналов.",
+        "paragraph_en": "This practice helps the practitioner achieve inner peace and awareness by cleansing energy channels."
+      }
+    ]
+  },
+  {
+    "title": "Кундалини-йога",
+    "title_en": "Kundalini Yoga",
+    "paragraphs": [
+      {
+        "paragraph": "Кундалини-йога направлена на пробуждение духовной энергии, расположенной у основания позвоночника. Она сочетает асаны, дыхательные техники, медитацию и пение мантр.",
+        "paragraph_en": "Kundalini Yoga aims to awaken spiritual energy located at the base of the spine. It combines asanas, breathing techniques, meditation, and mantra chanting."
+      },
+      {
+        "paragraph": "Практика способствует раскрытию внутреннего потенциала и гармонизации энергетических центров (чакр).",
+        "paragraph_en": "The practice promotes the unlocking of inner potential and the harmonization of energy centers (chakras)."
+      }
+    ]
+  },
+  {
+    "title": "Чакра-медитация",
+    "title_en": "Chakra Meditation",
+    "paragraphs": [
+      {
+        "paragraph": "Чакра-медитация фокусируется на активации и балансировке семи основных энергетических центров тела. Каждая чакра связана с определенными аспектами физического и эмоционального здоровья.",
+        "paragraph_en": "Chakra meditation focuses on activating and balancing the seven main energy centers of the body. Each chakra is associated with specific aspects of physical and emotional health."
+      },
+      {
+        "paragraph": "Практика включает визуализацию, мантры и дыхательные техники для гармонизации энергии.",
+        "paragraph_en": "The practice involves visualization, mantras, and breathing techniques to harmonize energy."
+      }
+    ]
+  },
+  {
+    "title": "Трансцендентальная медитация",
+    "title_en": "Transcendental Meditation",
+    "paragraphs": [
+      {
+        "paragraph": "Трансцендентальная медитация — это техника, при которой практикующий повторяет мантру в состоянии расслабления, чтобы достичь глубокого внутреннего покоя.",
+        "paragraph_en": "Transcendental meditation is a technique where the practitioner repeats a mantra in a relaxed state to achieve deep inner peace."
+      },
+      {
+        "paragraph": "Эта практика улучшает концентрацию, снижает стресс и способствует эмоциональному равновесию.",
+        "paragraph_en": "This practice improves concentration, reduces stress, and promotes emotional balance."
+      }
+    ]
+  },
+  {
+    "title": "Пение мантр",
+    "title_en": "Mantra Chanting",
+    "paragraphs": [
+      {
+        "paragraph": "Пение мантр — это практика повторения священных звуков или слов для достижения духовного состояния. Мантры помогают успокоить ум и сосредоточиться.",
+        "paragraph_en": "Mantra chanting is the practice of repeating sacred sounds or words to achieve a spiritual state. Mantras help calm the mind and enhance focus."
+      },
+      {
+        "paragraph": "Популярные мантры включают «Ом», «Со Хам» и «Ом Намах Шивайя».",
+        "paragraph_en": "Popular mantras include 'Om,' 'So Hum,' and 'Om Namah Shivaya.'"
+      }
+    ]
+  },
+  {
+    "title": "Випассана",
+    "title_en": "Vipassana",
+    "paragraphs": [
+      {
+        "paragraph": "Випассана — это буддийская медитативная практика, направленная на развитие осознанности через наблюдение за дыханием и телесными ощущениями.",
+        "paragraph_en": "Vipassana is a Buddhist meditative practice aimed at developing mindfulness through observation of breath and bodily sensations."
+      },
+      {
+        "paragraph": "Цель практики — глубокое понимание природы реальности и освобождение от страданий.",
+        "paragraph_en": "The goal of the practice is a deep understanding of the nature of reality and liberation from suffering."
+      }
+    ]
+  },
+  {
+    "title": "Метта-медитация",
+    "title_en": "Metta Meditation",
+    "paragraphs": [
+      {
+        "paragraph": "Метта-медитация, или медитация любящей доброты, направлена на развитие чувства сострадания и любви к себе и другим. Практикующий повторяет фразы, такие как «Пусть я буду счастлив» или «Пусть все существа будут свободны от страданий».",
+        "paragraph_en": "Metta meditation, or loving-kindness meditation, aims to cultivate compassion and love for oneself and others. The practitioner repeats phrases like 'May I be happy' or 'May all beings be free from suffering.'"
+      },
+      {
+        "paragraph": "Эта практика помогает уменьшить гнев и улучшить эмоциональное благополучие.",
+        "paragraph_en": "This practice helps reduce anger and enhance emotional well-being."
+      }
+    ]
+  },
+  {
+    "title": "Зен-медитация",
+    "title_en": "Zen Meditation",
+    "paragraphs": [
+      {
+        "paragraph": "Зен-медитация (Дзадзен) — это практика сидячей медитации, направленная на достижение просветления через осознанность и наблюдение за умом.",
+        "paragraph_en": "Zen meditation (Zazen) is a seated meditation practice aimed at achieving enlightenment through mindfulness and observation of the mind."
+      },
+      {
+        "paragraph": "Практика требует строгой позы и сосредоточения на дыхании или коанах (парадоксальных вопросах).",
+        "paragraph_en": "The practice requires a strict posture and focus on breathing or koans (paradoxical questions)."
+      }
+    ]
+  },
+  {
+    "title": "Йога-нидра",
+    "title_en": "Yoga Nidra",
+    "paragraphs": [
+      {
+        "paragraph": "Йога-нидра — это практика глубокого расслабления, часто называемая «йогическим сном». Практикующий лежит в удобной позе, следуя инструкциям для расслабления тела и ума.",
+        "paragraph_en": "Yoga Nidra is a practice of deep relaxation, often called 'yogic sleep.' The practitioner lies in a comfortable position, following instructions to relax the body and mind."
+      },
+      {
+        "paragraph": "Эта техника помогает снять стресс и улучшить качество сна.",
+        "paragraph_en": "This technique helps reduce stress and improve sleep quality."
+      }
+    ]
+  },
+  {
+    "title": "Дхьяна",
+    "title_en": "Dhyana",
+    "paragraphs": [
+      {
+        "paragraph": "Дхьяна — это стадия глубокой медитации, при которой ум полностью сосредоточен на объекте медитации без отвлечений. Это одна из ступеней йоги по Патанджали.",
+        "paragraph_en": "Dhyana is a stage of deep meditation where the mind is fully focused on the object of meditation without distractions. It is one of the stages of yoga according to Patanjali."
+      },
+      {
+        "paragraph": "Практика развивает внутреннюю ясность и ведет к состоянию самадхи.",
+        "paragraph_en": "The practice develops inner clarity and leads to the state of samadhi."
+      }
+    ]
+  },
+  {
+    "title": "Бхастрика",
+    "title_en": "Bhastrika",
+    "paragraphs": [
+      {
+        "paragraph": "Бхастрика — это мощная дыхательная техника, также известная как «дыхание кузнечных мехов». Она включает быстрые и энергичные вдохи и выдохи.",
+        "paragraph_en": "Bhastrika is a powerful breathing technique, also known as 'bellows breath.' It involves rapid and forceful inhalations and exhalations."
+      },
+      {
+        "paragraph": "Практика повышает уровень энергии, улучшает кровообращение и подготавливает к медитации.",
+        "paragraph_en": "The practice boosts energy levels, improves circulation, and prepares for meditation."
+      }
+    ]
+  },
+  {
+    "title": "Капалабхати",
+    "title_en": "Kapalabhati",
+    "paragraphs": [
+      {
+        "paragraph": "Капалабхати — это очищающая дыхательная техника, включающая короткие, быстрые выдохи и пассивные вдохи. Она буквально переводится как «сияющий череп».",
+        "paragraph_en": "Kapalabhati is a cleansing breathing technique involving short, rapid exhalations and passive inhalations. It literally translates to 'skull-shining.'"
+      },
+      {
+        "paragraph": "Практика улучшает концентрацию, очищает дыхательные пути и повышает энергию.",
+        "paragraph_en": "The practice improves concentration, clears respiratory passages, and boosts energy."
+      }
+    ]
+  },
+  {
+    "title": "Нади Шодхана",
+    "title_en": "Nadi Shodhana",
+    "paragraphs": [
+      {
+        "paragraph": "Нади Шодхана, или попеременное дыхание через ноздри, — это техника пранаямы, которая балансирует энергию в теле и успокаивает ум.",
+        "paragraph_en": "Nadi Shodhana, or alternate nostril breathing, is a pranayama technique that balances energy in the body and calms the mind."
+      },
+      {
+        "paragraph": "Практика способствует гармонии между левым и правым полушариями мозга.",
+        "paragraph_en": "The practice promotes harmony between the left and right hemispheres of the brain."
+      }
+    ]
+  },
+  {
+    "title": "Сукхасана",
+    "title_en": "Sukhasana",
+    "paragraphs": [
+      {
+        "paragraph": "Сукхасана — это простая сидячая поза для медитации, также известная как «удобная поза». Она подходит для начинающих.",
+        "paragraph_en": "Sukhasana is a simple seated meditation pose, also known as 'easy pose.' It is suitable for beginners."
+      },
+      {
+        "paragraph": "Поза помогает улучшить осанку и подготовить тело к длительным медитациям.",
+        "paragraph_en": "The pose helps improve posture and prepare the body for extended meditations."
+      }
+    ]
+  },
+  {
+    "title": "Падмасана",
+    "title_en": "Padmasana",
+    "paragraphs": [
+      {
+        "paragraph": "Падмасана, или поза лотоса, — это классическая йогическая поза для медитации. Она требует гибкости бедер и коленей.",
+        "paragraph_en": "Padmasana, or lotus pose, is a classic yogic pose for meditation. It requires flexibility in the hips and knees."
+      },
+      {
+        "paragraph": "Поза способствует глубокому расслаблению и устойчивости во время медитации.",
+        "paragraph_en": "The pose promotes deep relaxation and stability during meditation."
+      }
+    ]
+  },
+  {
+    "title": "Аджапа Джапа",
+    "title_en": "Ajapa Japa",
+    "paragraphs": [
+      {
+        "paragraph": "Аджапа Джапа — это медитативная практика, сочетающая повторение мантры с дыханием. Практикующий мысленно повторяет мантру, синхронизируя ее с вдохом и выдохом.",
+        "paragraph_en": "Ajapa Japa is a meditative practice combining mantra repetition with breathing. The practitioner mentally repeats a mantra, synchronizing it with inhalation and exhalation."
+      },
+      {
+        "paragraph": "Эта техника успокаивает ум и усиливает осознанность.",
+        "paragraph_en": "This technique calms the mind and enhances mindfulness."
+      }
+    ]
+  },
+  {
+    "title": "Медитация на пустоту",
+    "title_en": "Meditation on Emptiness",
+    "paragraphs": [
+      {
+        "paragraph": "Медитация на пустоту — это практика, направленная на осознание отсутствия независимого «я» и иллюзорности материального мира.",
+        "paragraph_en": "Meditation on emptiness is a practice aimed at realizing the absence of an independent 'self' and the illusory nature of the material world."
+      },
+      {
+        "paragraph": "Эта техника часто используется в буддийских традициях для достижения просветления.",
+        "paragraph_en": "This technique is often used in Buddhist traditions to attain enlightenment."
+      }
+    ]
+  },
+  {
+    "title": "Тантрическая медитация",
+    "title_en": "Tantric Meditation",
+    "paragraphs": [
+      {
+        "paragraph": "Тантрическая медитация использует визуализацию, мантры и ритуалы для трансформации энергии и достижения духовного единства.",
+        "paragraph_en": "Tantric meditation uses visualization, mantras, and rituals to transform energy and achieve spiritual unity."
+      },
+      {
+        "paragraph": "Практика помогает раскрыть внутреннюю силу и соединиться с божественным.",
+        "paragraph_en": "The practice helps unlock inner strength and connect with the divine."
+      }
+    ]
+  },
+  {
+    "title": "Медитация на осознанность",
+    "title_en": "Mindfulness Meditation",
+    "paragraphs": [
+      {
+        "paragraph": "Медитация на осознанность — это практика наблюдения за мыслями, чувствами и ощущениями без суждений. Она помогает развить присутствие в моменте.",
+        "paragraph_en": "Mindfulness meditation is the practice of observing thoughts, feelings, and sensations without judgment. It helps develop presence in the moment."
+      },
+      {
+        "paragraph": "Эта техника широко используется для снижения стресса и улучшения ментального здоровья.",
+        "paragraph_en": "This technique is widely used to reduce stress and improve mental health."
+      }
+    ]
+  },
+  {
+    "title": "Медитация на звук Ом",
+    "title_en": "Om Sound Meditation",
+    "paragraphs": [
+      {
+        "paragraph": "Медитация на звук Ом включает повторение или прослушивание звука «Ом», который считается священным в индуизме.",
+        "paragraph_en": "Om sound meditation involves repeating or listening to the sound 'Om,' which is considered sacred in Hinduism."
+      },
+      {
+        "paragraph": "Практика способствует глубокому расслаблению и духовной гармонии.",
+        "paragraph_en": "The practice promotes deep relaxation and spiritual harmony."
+      }
+    ]
+  },
+  {
+    "title": "Медитация на дыхание",
+    "title_en": "Breath Awareness Meditation",
+    "paragraphs": [
+      {
+        "paragraph": "Медитация на дыхание — это простая техника, при которой практикующий сосредотачивается на своем дыхании, наблюдая за вдохами и выдохами.",
+        "paragraph_en": "Breath awareness meditation is a simple technique where the practitioner focuses on their breathing, observing inhalations and exhalations."
+      },
+      {
+        "paragraph": "Эта практика успокаивает ум и улучшает концентрацию, подходя для всех уровней подготовки.",
+        "paragraph_en": "This practice calms the mind and improves concentration, suitable for all levels of experience."
+      }
+    ]
+  }
 ]
